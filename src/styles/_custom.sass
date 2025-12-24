@@ -1,14 +1,14 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 4s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 65%
+    left: -5%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 6s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 40%
+    right: 5%
 
 
 @keyframes float1
@@ -22,6 +22,140 @@
     background-image: url("../assets/curso/portada/fondo-banner-principal.png")
     background-size: cover
     background-position: center
+    @media (max-width: $bp-max-md)
+      background-image: url("../assets/curso/portada/fondo-banner-principal-md.png")
+    @media (max-width: $bp-max-xs)
+      background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png")
+    
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.banner-interno__titulo__icono
+  background-color: #12263F !important
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.jpg")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG01, .BGIMG02
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGIMG01,.BGM12, .BGIMG02
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
   
-.txt--green
-  color: #39A900 !important
+.BG01, .BG03.acordion__activo
+  background-color: #FFEEE9
+
+.BG02, .cajon.color-secundario
+  background-color: #F2F4ED
+
+.BG03
+  background-color: #B2C9C4
+
+.BG04
+  background-color: #FFF5E4
+
+.BG05, .tabs-c__tab, .tabs-a__tab
+  background-color: #FFE5D8
+
+.BG06
+  background-color: #D9E2E1 !important
+
+.BG07, .pasos-b__header__item--before .pasos-b__header__item__dot
+  background-color: #F3BC5B
+
+.BG08
+  background-color: #D8E0E0
+
+.BG09, .tarjeta-numerada.color-secundario.ligth, .tarjeta-numerada.color-secundario.ligth .tarjeta-numerada__numero
+  border-color: #D8DEC8
+  background-color: #D8DEC8
+
+.BG10, .cajon.color-primario
+  background-color: #DAE4E3
+
+.BG11
+  background-color: #FFEBC9
+  border-bottom: 5px solid #004E3D
+
+.BGM12
+  background: linear-gradient(to bottom, #FFF, #FFF6E8, #FFF)
+
+.crd
+  &.crd--grayGrad
+    padding: 2rem
+    height: 100%
+    background-color: #FFE5D8
+    border-radius: 15px    
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    &:hover      
+      background-color: #B2C9C4
+      .bottomCircle
+        &::before
+          background-color: #FFFFFF
+
+.bottomCircle
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%)
+    width: 115px
+    height: 115px
+    background-color: #FF955E
+    border-radius: 999px
+
+.tabs-c.color-acento-botones .tabs-c__tab--active
+  background-color: $white
+
+.pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: #FF955E
+  border: 2px solid #FF955E
+
+.pasos-b__header__item--before .pasos-b__header__item__dot
+  border: 2px solid #F3BC5B
+
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before, .pasos-b__header__item--before .pasos-b__header__item__line-container:after, .pasos-b__header__item--active .pasos-b__header__item__line-container:before
+  background-color: #9D9D9D
+
+.slyder-a__bullets__item
+  background-color: #004E3D
+
+.lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li
+  display: flex
+
+.linea-tiempo-d.color-acento-botones.especial
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__content
+      background-color: #FFEEE9 !important 
+    .tarjeta.tarjeta--gris
+      background-color: #FFE5D8
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #B2C9C4
+.tarjeta.tarjeta--gris
+  background-color: #FF955E
+
+.tabs-c__header
+  margin-bottom: 0
+
+.img90
+  width: 90px 
+
+.tac
+  color: #FF955E
+
+.fa-check:before, .lista-ol--cuadro__vineta
+  color: $color-sistema-texto !important
+
+.tabs-c.color-acento-botones .tabs-c__tab--active
+  font-weight: 700

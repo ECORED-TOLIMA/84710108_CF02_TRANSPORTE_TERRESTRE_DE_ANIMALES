@@ -1,1 +1,1 @@
-module.exports = 'ECOBASE_SENA'
+module.exports = 'Manual de procedimiento de transporte terrestre'
