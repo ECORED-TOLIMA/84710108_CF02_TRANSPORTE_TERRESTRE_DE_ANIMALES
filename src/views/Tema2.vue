@@ -144,7 +144,7 @@
               img(src='@/assets/curso/tema2/img11.svg' alt="Imagen decorativa")
             .col-lg-9
               .h4 Soporte documental
-              p.mb-0 la carga se realizará a través de rampas o plataformas "...con pisos de superficies antideslizantes, que no presentan salientes puntiagudas, hoyos u orificios y con máximo 20 grados de inclinación..." — Manual de procedimiento (num. 4.a).
+              p.mb-0 La carga se realizará a través de rampas o plataformas "...con pisos de superficies antideslizantes, que no presentan salientes puntiagudas, hoyos u orificios y con máximo 20 grados de inclinación..." — Manual de procedimiento (num. 4.a).
     
     .row.mb-4
       .col-auto.BG11.px-4.py-2(data-aos="fade-right")
@@ -191,14 +191,14 @@
               img(src='@/assets/curso/tema2/img15.svg' alt="Imagen decorativa")
               .tarjeta.BG03
                 .p-4
-                  h2.text-center Rol del responsable
+                  .h4.text-center Rol del responsable
                   p.mb-0 El propietario, tenedor o poseedor debe aplicar esta técnica observacional para garantizar que solo se movilicen animales que puedan soportar la duración y el estrés del viaje.
           .col-lg-6.mb-lg-0.mb-4
             .tarjeta-avatar
               img(src='@/assets/curso/tema2/img16.svg' alt="Imagen decorativa")
               .tarjeta.BG03
                 .p-4
-                  h2.text-center Propósito
+                  .h4.text-center Propósito
                   p.mb-0 Detectar animales no aptos que, de ser transportados, podrían sufrir dolor, lesiones graves o morir, comprometiendo también la salud de los demás animales y la inocuidad de los productos finales.
 
     .row.justify-content-center.mb-5
@@ -509,7 +509,7 @@
           .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
             img(src='@/assets/curso/temas/img02.svg' style="max-width: 32px; margin-left: -16px;")
             h3.col.ps-3.mb-0 Técnica de manejo de instrumentos de estímulo
-        p.mb-0 La normativa establece el principio rector para el uso de cualquier instrumento auxiliar (como paletas, banderas o instrumentos de estímulo), enfocándose en la restricción de la fuerza y el hostigamiento .
+        p.mb-0 La normativa establece el principio rector para el uso de cualquier instrumento auxiliar (como paletas, banderas o instrumentos de estímulo), enfocándose en la restricción de la fuerza y el hostigamiento.
 
     .row.justify-content-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
@@ -534,7 +534,7 @@
         img(src='@/assets/curso/temas/img02.svg' style="max-width: 32px; margin-left: -16px;")
         h3.col.ps-3.mb-0 Implementos de contención y estructurales
 
-    p.mb-5 Ciertos implementos estructurales son esenciales y deben ser manejados e instalados correctamente durante la precarga para garantizar la seguridad, a continuación, se presentan listados y con el respectivo soporte documental .
+    p.mb-5 Ciertos implementos estructurales son esenciales y deben ser manejados e instalados correctamente durante la precarga para garantizar la seguridad, a continuación, se presentan listados y con el respectivo soporte documental.
 
     TabsC.color-acento-botones.mb-5(data-aos="zoom-out")
       .BG06.px-4.py-3.py-md-4(titulo="Divisiones o barreras")
@@ -606,7 +606,7 @@
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
         img(src='@/assets/curso/temas/img02.svg' style="max-width: 32px; margin-left: -16px;")
-        h3.col.ps-3.mb-0 Técnica de Manejo de Instrumentos de Estímulo
+        h3.col.ps-3.mb-0 Técnica de manejo de instrumentos de estímulo
 
     p.mb-5 La normativa establece el principio rector para el uso de cualquier instrumento auxiliar, como paletas, banderas o instrumentos de estímulo, enfocándose en la restricción de la fuerza y el hostigamiento. A continuación se presentan las técnicas y su descripción.
 
@@ -734,7 +734,7 @@
               img(src='@/assets/curso/tema2/img55.svg' alt="Imagen decorativa")
             .col-lg-9
               .h4 Soporte documental
-              p la carga se realizará a través de rampas o plataformas “…con pisos de superficies antideslizante, que no presenten salientes puntiagudas, hoyos u orificios…”.
+              p La carga se realizará a través de rampas o plataformas “…con pisos de superficies antideslizante, que no presenten salientes puntiagudas, hoyos u orificios…”.
               p.mb-0 MANUAL DE PROCEDIMIENTO (Num. 4.a).
 
     .mb-4.d-flex(data-aos="fade-right")
@@ -860,7 +860,7 @@
         h3.col.ps-3.mb-0 Característica de organización de la carga (separación)
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
+      .col-lg-10.order-lg-1.order-2(data-aos="fade-right")
         p Una carga correctamente organizada requiere la aplicación de técnicas de separación que mitiguen la hostilidad, el estrés y las lesiones entre los animales, utilizando las divisiones internas del vehículo.
         ul.lista-ul--color
           li(style="margin-bottom: 2px")
@@ -868,7 +868,7 @@
             p.mb-0 #[strong Separación obligatoria]: la carga debe estar separada por especie, edad, tamaño, machos sexualmente maduros de hembras, animales con y sin cuernos, y aquellos que puedan ser hostiles o que requieran atención especial.
         .cajon.color-primario.p-4
           p.mb-0 #[strong Soporte documental]: " separar por especie, edad, tamaño, machos sexualmente maduros de hembras, animales con y sin cuernos, animales que puedan ser hostiles con otros..." — Manual de procedimiento (num. 4.c.iii).
-      .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+      .col-lg-2.col-4.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/img61.png' alt="Imagen decorativa")
 
     .row.justify-content-center.mb-4

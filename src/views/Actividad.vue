@@ -16,7 +16,7 @@ export default {
       tema: 'Procedimientos de Transporte y Manejo de Animales',
       titulo: 'Cuestionario',
       introduccion:
-        'Validar la comprensión de los procedimientos técnicos de planificación, manejo y bioseguridad en el transporte de animales en pie.',
+        '<b>Objetivo: </b>validar la comprensión de los procedimientos técnicos de planificación, manejo y bioseguridad en el transporte de animales en pie.',
       barajarPreguntas: true,
       preguntas: [
         {

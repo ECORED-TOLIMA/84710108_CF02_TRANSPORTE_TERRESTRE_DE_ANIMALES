@@ -15,7 +15,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .BG01.p-4
-          .row.justify-content-center
+          .row.justify-content-center.align-items-center
             .col-lg-2.col-4.px-4.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img02.svg' alt="Imagen decorativa")
             .col-lg-10
@@ -60,14 +60,14 @@
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         AcordionA.color-acento-botones(tipo="b" clase-tarjeta="tarjeta BG03" data-aos="zoom-in")
           div(titulo="Planificación del descanso")
-            p #[strong Técnica de ejecución y orden de viaje]: El plan debe ordenar la detención del vehículo y el descanso del conductor y tripulante por al menos ocho (8) horas, después de un máximo de ocho (8) horas de conducción continua.
-            p.mb-0 #[strong Soporte documental (texto exacto)]: Manual de procedimiento (Num. 4.i): "El conductor o tripulante deberá descansar al menos ocho (8) horas, una vez haya conducido ocho (8) horas continuas ".
+            p #[strong Técnica de ejecución y orden de viaje]: el plan debe ordenar la detención del vehículo y el descanso del conductor y tripulante por al menos ocho (8) horas, después de un máximo de ocho (8) horas de conducción continua.
+            p.mb-0 #[strong Soporte documental (texto exacto)]: manual de procedimiento (Num. 4.i): "El conductor o tripulante deberá descansar al menos ocho (8) horas, una vez haya conducido ocho (8) horas continuas ".
           div(titulo="Orden de inspección en ruta")
-            p #[strong Técnica de ejecución y orden de viaje]: El plan debe incorporar interrupciones programadas para la inspección y el control. Se debe realizar una revisión de la unidad y los animales, por lo menos, cada cuatro (4) horas.
-            p.mb-0 #[strong Soporte documental (texto exacto)]: Manual de procedimiento (Num. 4.g): "El conductor o tripulante deberá realizar la inspección de la unidad de transporte de animales y de los animales en movimiento, por lo menos cada cuatro (4) horas durante el viaje".
+            p #[strong Técnica de ejecución y orden de viaje]: el plan debe incorporar interrupciones programadas para la inspección y el control. Se debe realizar una revisión de la unidad y los animales, por lo menos, cada cuatro (4) horas.
+            p.mb-0 #[strong Soporte documental (texto exacto)]: manual de procedimiento (Num. 4.g): "El conductor o tripulante deberá realizar la inspección de la unidad de transporte de animales y de los animales en movimiento, por lo menos cada cuatro (4) horas durante el viaje".
           div(titulo="Planificación de paradas")
-            p #[strong Técnica de ejecución y orden de viaje]: En casos de viajes de larga duración, el plan de viaje debe identificar un lugar de descanso de los animales donde se puedan realizar actividades de inspección, alojamiento, hidratación o alimentación.
-            p.mb-0 #[strong Soporte documental (texto exacto)]: Manual de procedimiento (Num. 4.h): "En los casos de interrupciones, estas se deben realizar en un lugar de descanso de los animales para realizar actividades de inspección, acomodación, hidratación o alimentación ".
+            p #[strong Técnica de ejecución y orden de viaje]: en casos de viajes de larga duración, el plan de viaje debe identificar un lugar de descanso de los animales donde se puedan realizar actividades de inspección, alojamiento, hidratación o alimentación.
+            p.mb-0 #[strong Soporte documental (texto exacto)]: manual de procedimiento (Num. 4.h): "En los casos de interrupciones, estas se deben realizar en un lugar de descanso de los animales para realizar actividades de inspección, acomodación, hidratación o alimentación ".
       .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img05.jpg' alt="Imagen decorativa")
 
@@ -221,7 +221,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
-        .tarjeta-avatar-b
+        .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema1/img16.svg' alt="Imagen decorativa")
           .tarjeta.BG03
@@ -229,7 +229,7 @@
               .h4 Especies mayores
               p.mb-0 Emplear rampas con un máximo de veinte grados de inclinación para facilitar el movimiento natural y evitar miedo durante el ascenso o el descenso.
       .col-lg-6(data-aos="fade-left")
-        .tarjeta-avatar-b
+        .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema1/img17.svg' alt="Imagen decorativa")
           .tarjeta.BG03
@@ -263,7 +263,7 @@
             p.mb-0 En especies susceptibles al estrés térmico, como porcinos y aves, la conducción debe garantizar ventilación constante y evitar detenciones prolongadas bajo la radiación solar directa, conforme al numeral 4.f.
 
         .row.justify-content-center.mb-5
-          .col-lg-2.col-4.px-3.mb-lg-0.mb-4(data-aos="fade-right")
+          .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
             img(src='@/assets/curso/tema1/img20.svg' alt="Imagen decorativa")
           .col-lg-10(data-aos="fade-left")
             p.mb-0 A continuación, se presentan de manera organizada los principales aspectos, características y referencias normativas relacionadas con el transporte de especies de consumo humano, de manera que se puedan identificar de forma clara los criterios técnicos y el soporte documental que los respalda.
@@ -297,35 +297,37 @@
           p.mb-0 La separación de los animales dentro de la unidad de transporte constituye una técnica de manejo obligatoria y esencial para garantizar el bienestar animal. Su finalidad es prevenir el sufrimiento, las lesiones, el maltrato y los comportamientos de agresividad o pelea entre los animales, situaciones que pueden afectar su salud y comprometer la calidad de la carga.
         p.mb-0 A continuación, se presenta un recurso que sistematiza los principales #[strong criterios de separación de animales durante el transporte], detallando la técnica aplicada, su justificación desde la etología y el soporte documental correspondiente. Esta información orienta la toma de decisiones para garantizar el bienestar animal, prevenir riesgos sanitarios y reducir situaciones de estrés, lesiones o agresividad dentro de la unidad de transporte.
 
-    PasosA.color-acento-contenido.mb-5(tipo="n")
-      .row.justify-content-center
-        .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
-          h4 Separación por especie
-          p La técnica exige separar a los animales de diferentes especies (ej. bovinos de porcinos) para evitar el miedo, la agresión interespecífica y la transmisión de patógenos.
-          p.mb-0 “Separar por especie…”. Manual de Procedimiento (núm. 4.c.iii).
-        .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema1/img25.png', alt="Imagen decorativa")
-      .row.justify-content-center
-        .col-lg-5.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema1/img26.png', alt="Imagen decorativa")
-        .col-lg-7(data-aos="fade-left")
-          h4 Separación por grupos etáreos y tamaño
-          p Se deben separar los animales por edad y tamaño para asegurar que los ejemplares más pequeños o jóvenes no sean aplastados o golpeados por animales más grandes o con mayor fuerza.
-          p.mb-0 “Separar por edad y tamaño…”. Manual de Procedimiento (núm. 4.c.iii).
-      .row.justify-content-center
-        .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
-          h4 Separación por sexo y madurez
-          p Se deben separar los machos sexualmente maduros de las hembras (y viceversa) para evitar el acoso sexual, el estrés y el riesgo de lesiones y caídas asociadas al comportamiento reproductivo.
-          p.mb-0 “Separar a los machos sexualmente maduros de las hembras…”. Manual de Procedimiento (núm. 4.c.iii).
-        .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema1/img27.png', alt="Imagen decorativa")
-      .row.justify-content-center
-        .col-lg-5.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema1/img28.png', alt="Imagen decorativa")
-        .col-lg-7(data-aos="fade-left")
-          h4 Separación por condición física y hostilidad
-          p Es obligatorio separar a los animales con y sin cuernos ya aquellos animales que puedan ser hostiles con otros. También se deben separar los que requieran atención especial o que estén lesionados.
-          p.mb-0 “Separar a los animales con y sin cuernos, así como a aquellos que puedan ser hostiles con otros, requieran atención especial o se encuentren lesionados…”. Manual de Procedimiento (núm. 4.c.iii).
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        PasosA.color-acento-contenido(tipo="n")
+          .row.justify-content-center
+            .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
+              h4 Separación por especie
+              p La técnica exige separar a los animales de diferentes especies (ej. bovinos de porcinos) para evitar el miedo, la agresión interespecífica y la transmisión de patógenos.
+              p.mb-0 “Separar por especie…”. Manual de Procedimiento (núm. 4.c.iii).
+            .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+              img(src='@/assets/curso/tema1/img25.png', alt="Imagen decorativa")
+          .row.justify-content-center
+            .col-lg-5.col-8.mb-lg-0.mb-4(data-aos="fade-right")
+              img(src='@/assets/curso/tema1/img26.png', alt="Imagen decorativa")
+            .col-lg-7(data-aos="fade-left")
+              h4 Separación por grupos etáreos y tamaño
+              p Se deben separar los animales por edad y tamaño para asegurar que los ejemplares más pequeños o jóvenes no sean aplastados o golpeados por animales más grandes o con mayor fuerza.
+              p.mb-0 “Separar por edad y tamaño…”. Manual de Procedimiento (núm. 4.c.iii).
+          .row.justify-content-center
+            .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
+              h4 Separación por sexo y madurez
+              p Se deben separar los machos sexualmente maduros de las hembras (y viceversa) para evitar el acoso sexual, el estrés y el riesgo de lesiones y caídas asociadas al comportamiento reproductivo.
+              p.mb-0 “Separar a los machos sexualmente maduros de las hembras…”. Manual de Procedimiento (núm. 4.c.iii).
+            .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+              img(src='@/assets/curso/tema1/img27.png', alt="Imagen decorativa")
+          .row.justify-content-center
+            .col-lg-5.col-8.mb-lg-0.mb-4(data-aos="fade-right")
+              img(src='@/assets/curso/tema1/img28.png', alt="Imagen decorativa")
+            .col-lg-7(data-aos="fade-left")
+              h4 Separación por condición física y hostilidad
+              p Es obligatorio separar a los animales con y sin cuernos ya aquellos animales que puedan ser hostiles con otros. También se deben separar los que requieran atención especial o que estén lesionados.
+              p.mb-0 “Separar a los animales con y sin cuernos, así como a aquellos que puedan ser hostiles con otros, requieran atención especial o se encuentren lesionados…”. Manual de Procedimiento (núm. 4.c.iii).
 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-right")
@@ -490,28 +492,28 @@
         PasosB.color-acento-botones(data-aos="zoom-in")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
-              .h4 Capacidad Y Densidad
+              .h4 Capacidad y densidad
               p El vehículo debe ser seleccionado según su área útil, garantizando espacio suficiente para que el animal pueda levantarse, acostarse y girar, de acuerdo con la densidad de carga establecida para cada especie.
-              p.mb-0 #[strong Soporte documental]: Manual de Procedimiento (Numeral 4.e). “Procurar que se cuente con espacio disponible para que el animal pueda levantarse, acostarse y dar vuelta”.
+              p.mb-0 #[strong Soporte documental]: manual de Procedimiento (Numeral 4.e). “Procurar que se cuente con espacio disponible para que el animal pueda levantarse, acostarse y dar vuelta”.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img37.jpg' alt="Imagen decorativa")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
-              .h4 Protección Climática
+              .h4 Protección climática
               p Para todas las especies, el vehículo debe contar con techo o cubierta que proteja a los animales de las condiciones climáticas adversas.
-              p.mb-0 #[strong Soporte documental]: Manual de Procedimiento (Numeral 2.2.c.i). “Deberán contar con techo o cubierta que proteja a los animales de las condiciones climáticas adversas”.
+              p.mb-0 #[strong Soporte documental]: manual de Procedimiento (Numeral 2.2.c.i). “Deberán contar con techo o cubierta que proteja a los animales de las condiciones climáticas adversas”.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img38.jpg' alt="Imagen decorativa")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
-              .h4 Contención Específica
+              .h4 Contención específica
               p En especies pequeñas, como pollitos de un día, el vehículo debe ser adecuado para asegurar las cajas plásticas o de cartón utilizadas como unidades de contención, evitando su desplazamiento o volcamiento durante el transporte.
-              p.mb-0 #[strong Soporte documental]: Manual de Procedimiento (Numeral 2.2.c.v). “Las cajas deben estar fijadas o dispuestas de manera tal que se evite su desplazamiento y/o volcamiento”.
+              p.mb-0 #[strong Soporte documental]: manual de Procedimiento (Numeral 2.2.c.v). “Las cajas deben estar fijadas o dispuestas de manera tal que se evite su desplazamiento y/o volcamiento”.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img39.jpg' alt="Imagen decorativa")
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
+      .col-lg-10.order-lg-1.order-2(data-aos="fade-right")
         .mb-4.d-flex
           .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
             img(src='@/assets/curso/temas/img02.svg' style="max-width: 32px; margin-left: -16px;")
@@ -522,7 +524,7 @@
             img(src='@/assets/curso/temas/img02.svg' style="max-width: 32px; margin-left: -16px;")
             h3.col.ps-3.mb-0 Especies que requieren contención fuerte y separación
         p.mb-0 Por ejemplo: bovinos y équidos. El vehículo debe ser seleccionado por su capacidad estructural para albergar animales de gran tamaño y resistir su peso y movimiento. En estos casos se requiere:
-      .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+      .col-lg-2.col-4.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img40.png' alt="Imagen decorativa")  
 
     .row.justify-content-center.mb-5
@@ -614,15 +616,15 @@
             th(style="background-color: #F3BC5B; width: 28%;") Soporte documental (texto exacto)
         tbody
           tr(data-aos="fade-right")
-            td(style="background-color: #F6F6F6;") Propietario, tenedor o poseedor de los animales (remitente)
-            td(style="background-color: #F6F6F6;") Responsable legal de la carga viva. debe asegurar que solo se movilicen animales aptos.
+            td(style="background-color: #F6F6F6;") Propietario, tenedor o poseedor de los animales (remitente).
+            td(style="background-color: #F6F6F6;") Responsable legal de la carga viva. Debe asegurar que solo se movilicen animales aptos.
             td(style="background-color: #F6F6F6;") Observar y seleccionar los animales para detectar y excluir a los no aptos (enfermos, lesionados, en etapa crítica de gestación).
-            td(style="background-color: #F6F6F6;") "el propietario, tenedor o poseedor de los animales... deberá observar y seleccionar los animales, para detectar animales no aptos para el transporte." Manual de procedimiento (núm. 4.a)
+            td(style="background-color: #F6F6F6;") "el propietario, tenedor o poseedor de los animales... deberá observar y seleccionar los animales, para detectar animales no aptos para el transporte." Manual de procedimiento (núm. 4.a).
           tr(data-aos="fade-right")
-            td Toda persona involucrada en el proceso
+            td Toda persona involucrada en el proceso.
             td Cualquier actor que intervenga en las diferentes etapas del manejo y cuidado, incluyendo el personal de carga y descargue.
             td Realizar y aprobar el curso de capacitación en bienestar animal y portar el certificado que lo acredita.
-            td "toda persona involucrada en el proceso... deberá realizar un curso de capacitación en bienestar animal y portar el documento que certifique." Manual de procedimiento (núm. 6)
+            td "toda persona involucrada en el proceso... deberá realizar un curso de capacitación en bienestar animal y portar el documento que certifique." Manual de procedimiento (núm. 6).
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -638,17 +640,17 @@
           .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img47.jpg' alt="Imagen decorativa")
           .col-lg-8
-            p #[strong Característica / rol principal]: Responsable de la operación del vehículo. debe asegurar la seguridad vial y el manejo humanitario.
-            p #[strong Tipo de obligaciones clave]: Conducción suave, descanso mínimo de ocho (8) horas tras ocho (8) horas continuas de conducción y aplicación del plan de contingencia en caso de emergencia.
-            p.mb-0 #[strong Soporte documental (texto exacto)]"el conductor o tripulante deberá descansar al menos ocho (8) horas, una vez haya conducido ocho (8) horas continuas." Manual de procedimiento (núm. 4.i)
+            p #[strong Característica / rol principal]: responsable de la operación del vehículo. Debe asegurar la seguridad vial y el manejo humanitario.
+            p #[strong Tipo de obligaciones clave]: conducción suave, descanso mínimo de ocho (8) horas tras ocho (8) horas continuas de conducción y aplicación del plan de contingencia en caso de emergencia.
+            p.mb-0 #[strong Soporte documental (texto exacto)] "el conductor o tripulante deberá descansar al menos ocho (8) horas, una vez haya conducido ocho (8) horas continuas." Manual de procedimiento (núm. 4.i)
       .BG06.px-4.py-3.py-md-4(titulo="Tripulante")
         .row.justify-content-center
           .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img48.jpg' alt="Imagen decorativa")
           .col-lg-8
-            p #[strong Característica / rol principal]: Personal de apoyo en el manejo y cuidado de la carga durante el transporte.
-            p #[strong Tipo de obligaciones clave]: Realizar la inspección de la unidad de transporte y de los animales en movimiento por lo menos cada cuatro (4) horas durante el viaje.
-            p.mb-0 #[strong Soporte documental (texto exacto)]"el conductor o tripulante deberá realizar la inspección... por lo menos cada cuatro (4) horas durante el viaje." Manual de procedimiento (núm. 4.g)
+            p #[strong Característica / rol principal]: personal de apoyo en el manejo y cuidado de la carga durante el transporte.
+            p #[strong Tipo de obligaciones clave]: realizar la inspección de la unidad de transporte y de los animales en movimiento por lo menos cada cuatro (4) horas durante el viaje.
+            p.mb-0 #[strong Soporte documental (texto exacto)] "el conductor o tripulante deberá realizar la inspección... por lo menos cada cuatro (4) horas durante el viaje." Manual de procedimiento (núm. 4.g)
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -659,19 +661,19 @@
     p.mb-5 El recurso que se presenta a continuación identifica a las principales autoridades y sus obligaciones.
 
     AcordionA.color-acento-botones.mb-4(tipo="a" clase-tarjeta="tarjeta BG03" data-aos="zoom-in")
-      .row.justify-content-center(titulo="Funcionarios del ICA (instituto colombiano agropecuario)")
+      .row.justify-content-center(titulo="Funcionarios del ICA (Instituto Colombiano Agropecuario)")
         .col-lg-6.order-lg-1.order-2
-          p #[strong Característica / rol principal]: Autoridad sanitaria encargada de la inspección y control oficial.
-          p #[strong Tipo de obligaciones clave]: Realizar inspección, vigilancia y control del cumplimiento de las condiciones de bienestar animal y los protocolos sanitarios.
-          p.mb-0 #[strong Soporte documental (texto exacto)]:"Están en la obligación de permitir la inspección, vigilancia y control por parte de los funcionarios del instituto colombiano agropecuario (ica)." resolución 20223040006915 (art. 4, parágrafo)
+          p #[strong Característica / rol principal]: autoridad sanitaria encargada de la inspección y control oficial.
+          p #[strong Tipo de obligaciones clave]: realizar inspección, vigilancia y control del cumplimiento de las condiciones de bienestar animal y los protocolos sanitarios.
+          p.mb-0 #[strong Soporte documental (texto exacto)]: "Están en la obligación de permitir la inspección, vigilancia y control por parte de los funcionarios del instituto colombiano agropecuario (ica)." resolución 20223040006915 (art. 4, parágrafo)
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
             img(src='@/assets/curso/tema1/img49.jpg', alt="Imagen decorativa")
       .row.justify-content-center(titulo="Autoridades de tránsito")
         .col-lg-6.order-lg-1.order-2
-          p #[strong Característica / rol principal]: Autoridad encargada de la seguridad vial.
-          p #[strong Tipo de obligaciones clave]: Exigir la documentación obligatoria, incluido el certificado de capacitación en bienestar animal, y controlar la capacidad legal de carga del vehículo.
-          p.mb-0 #[strong Soporte documental (texto exacto)]:"El cual podrá ser exigido por las autoridades de tránsito y/o por el instituto colombiano agropecuario (ica)." Manual de procedimiento (núm. 6)
+          p #[strong Característica / rol principal]: autoridad encargada de la seguridad vial.
+          p #[strong Tipo de obligaciones clave]: exigir la documentación obligatoria, incluido el certificado de capacitación en bienestar animal, y controlar la capacidad legal de carga del vehículo.
+          p.mb-0 #[strong Soporte documental (texto exacto)]: "El cual podrá ser exigido por las autoridades de tránsito y/o por el instituto colombiano agropecuario (ica)." Manual de procedimiento (núm. 6)
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
             img(src='@/assets/curso/tema1/img50.jpg', alt="Imagen decorativa")
@@ -681,9 +683,9 @@
       h2 1.6 Manejo de personal y obligaciones de los operarios
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="fade-right")
+      .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema1/img51.png' alt="Imagen decorativa")
-      .col-lg-8(data-aos="fade-left")
+      .col-lg-9(data-aos="fade-left")
         .mb-4.d-flex
           .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
             img(src='@/assets/curso/temas/img02.svg' style="max-width: 32px; margin-left: -16px;")
@@ -697,7 +699,7 @@
         p.mb-0 Toda persona involucrada en el proceso debe realizar y aprobar el curso de capacitación en bienestar animal, el cual constituye el principal mecanismo para estandarizar conocimientos y prácticas. Asimismo, el personal debe portar el documento que certifique la aprobación del curso, permitiendo a las autoridades competentes verificar la idoneidad del operario.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
+      .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
         .mb-4.d-flex
           .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
             img(src='@/assets/curso/temas/img02.svg' style="max-width: 32px; margin-left: -16px;")
@@ -708,7 +710,7 @@
             img(src='@/assets/curso/temas/img02.svg' style="max-width: 32px; margin-left: -16px;")
             h3.col.ps-3.mb-0 Obligaciones de cuidado y manejo (cargue y descargue)
         p.mb-0 La técnica de manejo exige un comportamiento específico por parte del operador con el fin de reducir el estrés y evitar el maltrato animal. El cargue y descargue deben realizarse con calma, sin ruidos ni hostigamiento, y sin el uso de fuerza innecesaria. El operador tiene la obligación de utilizar las divisiones o barreras del vehículo para separar a los animales según especie, edad, tamaño y nivel de hostilidad.
-      .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+      .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img52.jpg' alt="Imagen decorativa")
 
     .mb-4.d-flex(data-aos="fade-right")
@@ -891,7 +893,7 @@
       .col-lg-10
         LineaTiempoD.color-acento-botones.especial
           div(numero="1" titulo="Frecuencia")
-            p pausas de cinco a diez minutos cada dos horas de conducción continua.
+            p Pausas de cinco a diez minutos cada dos horas de conducción continua.
             figure
               img(src='@/assets/curso/tema1/img60.jpg' alt="Imagen decorativa")
           div(numero="2" titulo="Ejecución")
@@ -1077,14 +1079,14 @@
               img(src='@/assets/curso/tema1/img73.svg' alt="Imagen decorativa")
               .tarjeta.BG03
                 .p-4
-                  h2.text-center Techo o cubierta
+                  .h4.text-center Techo o cubierta
                   p.mb-0 El vehículo seleccionado debe contar con techo o cubierta que proteja a los animales de las condiciones climáticas adversas, lo que incluye la exposición directa al sol como principal fuente de estrés térmico.
           .col-lg-6.mb-lg-0.mb-4
             .tarjeta-avatar
               img(src='@/assets/curso/tema1/img74.svg' alt="Imagen decorativa")
               .tarjeta.BG03
                 .p-4
-                  h2.text-center Soporte documental
+                  .h4.text-center Soporte documental
                   p.mb-0 "Las unidades de transporte deberán contar con techo o cubierta que proteja a los animales de las condiciones climáticas adversas." Resolución 20223040006915 (núm. 2.2.ci).
 
     .mb-4.d-flex(data-aos="fade-right")
@@ -1159,16 +1161,16 @@
     p.mb-5 Para garantizar una respuesta adecuada ante situaciones críticas, la normativa define los siguientes aspectos mínimos que deben estar cubiertos en el plan de contingencia:
 
     TabsA.color-acento-botones.mb-5(data-aos="fade-right")
-      .tarjeta.BG09.p-4(titulo="Eventos de contingencia")
+      .tarjeta.BG10.p-4(titulo="Eventos de contingencia")
         p El plan debe cubrir situaciones críticas como animales enfermos, muertos o accidentes que resulten en animales atrapados, caídas, traumatismos o fracturas.
         p.mb-0 #[strong Soporte documental]: ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (pág. 6): “Ante animales enfermos, muertos o accidentes que conlleven animales atrapados, caídas, traumatismos o fracturas de estos…”.
-      .tarjeta.BG09.p-4(titulo="Acciones inmediatas")
+      .tarjeta.BG10.p-4(titulo="Acciones inmediatas")
         p El plan debe incluir acciones inmediatas, como la ayuda o atención inmediata al animal y la notificación a la autoridad sanitaria más cercana.
         p.mb-0 #[strong Soporte documental]: ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (pág. 6): “…las van desde la ayuda o atención inmediata al animal, informar a la Oficina del Instituto Colombiano Agropecuario ICA más cercana…”.
-      .tarjeta.BG09.p-4(titulo="Disposición sanitaria")
+      .tarjeta.BG10.p-4(titulo="Disposición sanitaria")
         p Un componente crítico del plan es la técnica de sacrificio y disposición adecuada de los animales muertos en ruta, para evitar riesgos biológicos y ambientales.
         p.mb-0 #[strong Soporte documental]: ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (pág. 6): “…sacrificio y disposiciones de los animales muertos”.
-      .tarjeta.BG09.p-4(titulo="Inclusión en capacitación")
+      .tarjeta.BG10.p-4(titulo="Inclusión en capacitación")
         p Las acciones del plan de contingencia deben ser un componente obligatorio del curso de capacitación en bienestar animal.
         p.mb-0 #[strong Soporte documental]: Manual de procedimiento (núm. 5): “Las acciones a tomar por parte del conductor o tripulante frente a las situaciones anteriores deberán estar incluidas dentro del plan de estudios del curso de capacitación según la especie”.
 

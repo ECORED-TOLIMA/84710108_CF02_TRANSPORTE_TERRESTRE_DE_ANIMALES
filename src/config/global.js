@@ -262,20 +262,22 @@ export default {
     {
       tema: 'Normativa Completa',
       referencia:
-        'Ministerio de Transporte (2022). Resolución 20223040006915 de 2022.',
+        'Ministerio de Transporte (2022). <em>Resolución 20223040006915 de 2022</em>.',
       tipo: 'Documento Oficial (PDF)',
       link:
-        'https://www.google.com/search?q=https://www.ica.gov.co/getattachment/b3a62883-a4a3-4b68-809d-c5e39622d14b/2022R2022304006915.aspx',
+        'https://www.ica.gov.co/getattachment/b3a62883-a4a3-4b68-809d-c5e39622d14b/2022R2022304006915.aspx',
     },
     {
       tema: 'Fichas Técnicas Vehículos',
-      referencia: 'Ministerio de Transporte. (2004). Resolución 4100 de 2004.',
+      referencia:
+        'Ministerio de Transporte. (2004). <em>Resolución 4100 de 2004</em>.',
       tipo: 'Documento Oficial (PDF)',
       link: 'Proporcionar enlace a la resolución de tipología vehicular.',
     },
     {
       tema: 'Manejo de Aves',
-      referencia: 'FENAVI. (s.f.). Guías de Buenas Prácticas Avícolas.',
+      referencia:
+        'FENAVI. (s.f.).<em> Guías de Buenas Prácticas Avícolas</em>.',
       tipo: 'Manual / Guía',
       link:
         'Búsqueda en el portal de la Federación Nacional de Avicultores de Colombia.',
@@ -341,51 +343,45 @@ export default {
   referencias: [
     {
       referencia:
-        'Ministerio de Transporte. (2022). Resolución 20223040006915 del 1 de noviembre de 2022. Por la cual se adopta el Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie.',
+        'Ministerio de Transporte. (2022). <em>Resolución 20223040006915 del 1 de noviembre de 2022. Por la cual se adopta el Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie</em>.',
     },
     {
       referencia:
-        'Ministerio de Transporte. (2004). Resolución 4100 de 2004. Por la cual se adopta la NTC 4788 para la designación y clasificación de vehículos de carga.',
+        'Ministerio de Transporte. (2004). <em>Resolución 4100 de 2004. Por la cual se adopta la NTC 4788 para la designación y clasificación de vehículos de carga</em>.',
     },
     {
       referencia:
-        'Decreto 1072 de 2015. (2015). Decreto Único Reglamentario del Sector Trabajo. Ministerio del Trabajo.',
+        'Decreto 1072 de 2015. (2015). <em>Decreto Único Reglamentario del Sector Trabajo</em>. Ministerio del Trabajo.',
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario (ICA). (sf). Bienestar Animal.',
+        'Instituto Colombiano Agropecuario (ICA). (sf). <em>Bienestar Animal</em>.',
       link:
         'https://www.ica.gov.co/areas/pecuaria/servicios/bienestar-animal-1',
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario (ICA). (sf). Guía Sanitaria de Movilización Interna (GSMI).',
+        'Instituto Colombiano Agropecuario (ICA). (sf). <em>Guía Sanitaria de Movilización Interna (GSMI)</em>.',
       link:
         'https://www.ica.gov.co/areas/pecuaria/servicios/guia-sanitaria-de-movilizacion-interna-gsmi',
     },
     {
       referencia:
-        'Ley 1562 de 2012. (2012). Por la cual se modifica el Sistema de Riesgos Laborales y se dictan otras disposiciones en materia de Salud Ocupacional. Congreso de Colombia.',
+        'Ley 1562 de 2012. (2012). <em>Por la cual se modifica el Sistema de Riesgos Laborales y se dictan otras disposiciones en materia de Salud Ocupacional</em>. Congreso de Colombia.',
     },
     {
       referencia:
-        'Ministerio de Transporte. (2022). Resolución 20223040006915 del 1 de noviembre de 2022. Por la cual se adopta el Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie.',
+        'Ministerio de Transporte. (2022). <em>Resolución 20223040006915 del 1 de noviembre de 2022. Por la cual se adopta el Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie</em>.',
     },
     {
       referencia:
-        'Organización Mundial de Sanidad Animal (OMSA). (2021). Código Sanitario para los Animales Terrestres. Título 7: Bienestar de los animales.',
+        'Organización Mundial de Sanidad Animal (OMSA). (2021). <em>Código Sanitario para los Animales Terrestres. Título 7: Bienestar de los animales</em>.',
     },
   ],
   creditos: [
     {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
-        {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo:
-            'Responsable Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Dirección General',
-        },
         {
           nombre: 'Diana Rocío Possos Beltrán',
           cargo: 'Responsable de línea de producción',

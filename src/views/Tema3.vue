@@ -64,14 +64,14 @@
               .tarjeta.BG03
                 .p-4
                   .h4.text-center Implemento requerido
-                  p.mb-0 se deben usar divisiones o barreras fuertes dentro del vehículo para segregar grupos.
+                  p.mb-0 Se deben usar divisiones o barreras fuertes dentro del vehículo para segregar grupos.
           .col-lg-6.mb-lg-0.mb-4
             .tarjeta-avatar
               img(src='@/assets/curso/tema3/img07.svg' alt="Imagen decorativa")
               .tarjeta.BG03
                 .p-4
                   .h4.text-center Finalidad del espacio dividido
-                  p.mb-0 la separación por tamaño, especie, edad o cuernos garantiza que el espacio asignado a cada grupo (o individuo) sea realmente utilizable y no esté comprometido por animales más grandes o agresivos.
+                  p.mb-0 La separación por tamaño, especie, edad o cuernos garantiza que el espacio asignado a cada grupo (o individuo) sea realmente utilizable y no esté comprometido por animales más grandes o agresivos.
 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-left")
@@ -85,19 +85,21 @@
     
     p.mb-5 Para especies que se transportan en unidades de contención externas (como aves), la técnica de manejo del espacio disponible se traslada a la unidad de contención y su fijación dentro del vehículo.
 
-    PasosA.color-acento-contenido.mb-5(tipo="n")
-      .row.justify-content-center
-        .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
-          h4 Aves (pollitos de un día)
-          p.mb-0 Los contenedores (cajas plásticas o de cartón) actúan como el espacio disponible del animal.
-        .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          img(src='@/assets/curso/tema3/img08.png', alt="Imagen decorativa")
-      .row.justify-content-center
-        .col-lg-5.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-          img(src='@/assets/curso/tema3/img09.png', alt="Imagen decorativa")
-        .col-lg-7(data-aos="fade-left")
-          .h4 Fijación como técnica de espacio
-          p.mb-0 El riesgo no es el hacinamiento interno (si la caja es adecuada), sino el volcamiento o desplazamiento de la caja, lo cual reduce el espacio funcional del animal a cero. Por ello, la técnica exige que las cajas estén fijadas o dispuestas para evitar dicho movimiento.
+    .row.justify-content-center.mb-5
+      .col-lg-10(data-aos="fade-right")
+        PasosA.color-acento-contenido(tipo="n")
+          .row.justify-content-center
+            .col-lg-7.order-lg-1.order-2
+              h4 Aves (pollitos de un día)
+              p.mb-0 Los contenedores (cajas plásticas o de cartón) actúan como el espacio disponible del animal.
+            .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+              img(src='@/assets/curso/tema3/img08.png', alt="Imagen decorativa")
+          .row.justify-content-center
+            .col-lg-5.col-8.mb-lg-0.mb-4(data-aos="fade-right")
+              img(src='@/assets/curso/tema3/img09.png', alt="Imagen decorativa")
+            .col-lg-7(data-aos="fade-left")
+              .h4 Fijación como técnica de espacio
+              p.mb-0 El riesgo no es el hacinamiento interno (si la caja es adecuada), sino el volcamiento o desplazamiento de la caja, lo cual reduce el espacio funcional del animal a cero. Por ello, la técnica exige que las cajas estén fijadas o dispuestas para evitar dicho movimiento.
 
     .row.justify-content-center.mb-4
       .col-lg-10(data-aos="fade-left")
@@ -217,7 +219,7 @@
         h3.col.ps-3.mb-0 Requisito operacional (cuándo y dónde suministrar)
     
     p El método de suministro no es continuo, sino que está ligado a las paradas largas o interrupciones programadas en el plan de ruta.
-    p.mb-5 A continuación, se presentan los requisitos operacionales que determinan el lugar y el propósito del suministro de agua y alimento durante el transporte .
+    p.mb-5 A continuación, se presentan los requisitos operacionales que determinan el lugar y el propósito del suministro de agua y alimento durante el transporte.
 
     .tarjeta.BG10.p-4.mb-5
       SlyderA.color-acento-botones(tipo="b" data-aos="zoom-in")
@@ -396,15 +398,15 @@
           tr(data-aos="fade-right")
             th(style="background-color: #F6F6F6;") Control de la velocidad
             td(style="background-color: #F6F6F6;") Prevenir el estrés térmico mediante una conducción que garantice ventilación constante y mantenimiento de la temperatura entre 5 °C y 30 °C.
-            td(style="background-color: #F6F6F6;") Ventilación constante y control de temperatura. manual de procedimiento (núm. 4.f).
+            td(style="background-color: #F6F6F6;") Ventilación constante y control de temperatura. Manual de procedimiento (núm. 4.f).
           tr(data-aos="fade-right")
             th Manejo del ruido
             td Prevenir el pánico evitando el uso innecesario de la bocina y ruidos fuertes, teniendo en cuenta la alta sensibilidad auditiva de los animales.
-            td Conducción sin ruidos ni hostigamiento. manual de procedimiento (núm. 4).
+            td Conducción sin ruidos ni hostigamiento. Manual de procedimiento (núm. 4).
           tr(data-aos="fade-right")
             th(style="background-color: #F6F6F6;") Planificación de paradas
             td(style="background-color: #F6F6F6;") Mitigar la fatiga del conductor y proteger el bienestar animal mediante la aplicación del límite máximo de conducción continua.
-            td(style="background-color: #F6F6F6;") Descanso obligatorio ocho horas después de ocho horas de conducción. manual de procedimiento (núm. 4.i).
+            td(style="background-color: #F6F6F6;") Descanso obligatorio ocho horas después de ocho horas de conducción. Manual de procedimiento (núm. 4.i).
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -549,7 +551,7 @@
             img(src='@/assets/curso/temas/img02.svg' style="max-width: 32px; margin-left: -16px;")
             h3.col.ps-3.mb-0 Técnica de monitoreo activo (inspección rutinaria)
         p La técnica de supervisión se rige por una periodicidad obligatoria, siendo una de las responsabilidades principales de la tripulación en ruta.
-        p.mb-0 A continuación, se presenta el recurso que describe la periodicidad y el alcance obligatorio de la supervisión en trayecto .
+        p.mb-0 A continuación, se presenta el recurso que describe la periodicidad y el alcance obligatorio de la supervisión en trayecto.
 
     .tarjeta.BG08.p-4.mb-5(data-aos="fade-right")
       SlyderA.color-acento-botones(tipo="b" data-aos="zoom-in")
@@ -1019,21 +1021,21 @@
           img(src='@/assets/curso/tema3/img52.svg' alt="Imagen decorativa")
           .tarjeta.BG03
             .p-4
-              h2.text-center Entidad receptora del reporte
+              .h4.text-center Entidad receptora del reporte
               p.mb-0 La notificación se debe realizar a la Oficina del Instituto Colombiano Agropecuario (ICA) más cercana al punto donde se detectó la novedad o donde ocurrió el evento.
       .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="flip-up")
         .tarjeta-avatar
           img(src='@/assets/curso/tema3/img53.svg' alt="Imagen decorativa")
           .tarjeta.BG03
             .p-4
-              h2.text-center Contenido del reporte
+              .h4.text-center Contenido del reporte
               p.mb-0 El reporte debe incluir la naturaleza de la novedad (ej. número de animales caídos, animal con fractura), la ubicación exacta y la identificación del vehículo y la carga.
       .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta-avatar
           img(src='@/assets/curso/tema3/img54.svg' alt="Imagen decorativa")
           .tarjeta.BG03
             .p-4
-              h2.text-center Coordinación adicional
+              .h4.text-center Coordinación adicional
               p.mb-0 En caso de accidente de tránsito grave, la técnica exige la coordinación con las autoridades locales (municipal o distrital) para la gestión de la emergencia y el bienestar animal.
 
     .row.justify-content-center.mb-5
