@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span 1
-      h1 Salud ambiental y normativa asociada
+      h1 Técnica de planificación, plan y orden de viaje.
     
     figure.mb-5(data-aos="fade-right")
       img(src='@/assets/curso/tema1/img01.png' alt="Imagen decorativa")
