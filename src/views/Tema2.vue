@@ -8,7 +8,7 @@
       h1 Proceso precargue de animales en pie: concepto, densidad de carga animal y procedimientos técnicos
     
     figure.mb-5(data-aos="fade-right")
-      img(src='@/assets/curso/tema2/img01.png', alt="Imagen decorativa")
+      img(src='@/assets/curso/tema2/img01.png', alt="")
 
     p.mb-5 El proceso de precargue incluye todas las actividades esenciales que deben completarse antes de que los animales ingresen a la unidad de transporte, siendo un momento crítico para asegurar la selección sanitaria, el bienestar animal y la adecuación del vehículo.
 
@@ -19,7 +19,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img02.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema2/img02.svg' alt="")
       .col-lg-11.col-10(data-aos="fade-left")
         p La precarga abarca la preparación del vehículo, la selección de los animales y el alistamiento de la rampa, siendo una responsabilidad compartida entre el propietario y el transportador.
         p.mb-0 Como apoyo para comprender estas responsabilidades, el siguiente recurso organizado sintetiza los elementos clave del proceso de precargue:
@@ -31,14 +31,14 @@
           p.mb-0 #[strong Soporte documental (texto exacto)]: manual de procedimiento (num. 1. Carga de animales): "Corresponde al procedimiento por el que se cargan o embarcan los animales en las unidades de transporte".
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema2/img03.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img03.jpg', alt="")
       .row.justify-content-center(titulo="Responsabilidad")
         .col-lg-6.order-lg-1.order-2
           p La obligación de realizar el control de precargue recae en el propietario, tenedor o poseedor de los animales (remitente), aunque la ejecución se haga en coordinación con el transportador.
           p.mb-0 #[strong Soporte documental (texto exacto)]: "el propietario, tenedor o poseedor de los animales... deberá observar y seleccionar los animales..." — Manual de procedimiento (num. 4.a).
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema2/img04.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img04.jpg', alt="")
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -54,28 +54,28 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema2/img05.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema2/img05.svg', alt="")
             h4.text-center Concepto de densidad adecuada
             p.mb-0 La densidad no solo se refiere al peso total, sino al espacio disponible por animal. El objetivo técnico es garantizar que los animales no estén hacinados y puedan moverse mínimamente.
           .col-md.tarjeta.color-secundario.p-5(data-aos="fade-left")
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema2/img06.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema2/img06.svg', alt="")
             h4.text-center Requisito técnico
             p.mb-0 La técnica de precargue exige que se utilicen las tablas y fórmulas correspondientes a la especie para garantizar que se cuente con espacio disponible para que el animal pueda levantarse, acostarse, dar vuelta y mantener su equilibrio sin comprometer a otros.
 
         .cajon.color-primario.p-4(data-aos="fade-right")
           .row.justify-content-center
             .col-lg-3.col-6.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img07.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img07.svg' alt="")
             .col-lg-9
               .h4 Soporte documental
               p.mb-0 "...procurar que se cuente con espacio disponible para que el animal pueda levantarse, acostarse, dar vuelta..." — Manual de procedimiento (num. 4.e).
 
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img08.jpg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema2/img08.jpg' alt="")
       .col-lg-7(data-aos="fade-left")
         .mb-4.d-flex(data-aos="fade-right")
           .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -122,7 +122,7 @@
       .col-lg-6.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema2/img09.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img09.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4 Inclinación
@@ -130,7 +130,7 @@
       .col-lg-6.mb-lg-0(data-aos="fade-left")
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema2/img10.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img10.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4 Seguridad de superficie
@@ -141,7 +141,7 @@
         .cajon.color-secundario.p-4.mb-4  
           .row.justify-content-center
             .col-lg-3.col-6.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img11.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img11.svg' alt="")
             .col-lg-9
               .h4 Soporte documental
               p.mb-0 La carga se realizará a través de rampas o plataformas "...con pisos de superficies antideslizantes, que no presentan salientes puntiagudas, hoyos u orificios y con máximo 20 grados de inclinación..." — Manual de procedimiento (num. 4.a).
@@ -161,10 +161,10 @@
                 h4 Bioseguridad
                 p.mb-0 Chequeo de que el vehículo ha sido lavado y desinfectado previamente y que cuenta con el sistema para evitar la filtración de orina y heces hacia la vía pública.
               .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-                img(src='@/assets/curso/tema2/img12.png', alt="Imagen decorativa")
+                img(src='@/assets/curso/tema2/img12.png', alt="")
             .row.justify-content-center
               .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-                img(src='@/assets/curso/tema2/img13.png', alt="Imagen decorativa")
+                img(src='@/assets/curso/tema2/img13.png', alt="")
               .col-lg-8(data-aos="fade-left")
                 h4 Separación
                 p.mb-0 Instalación y aseguramiento de las divisiones o barreras fuertes necesarias para la separación de grupos (por especie, edad o cuernos) antes de que el cargue inicie.
@@ -178,7 +178,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img14.jpg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema2/img14.jpg' alt="")
       .col-lg-8(data-aos="fade-left")
         .mb-4.d-flex
           .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -188,14 +188,14 @@
         .row.justify-content-center
           .col-lg-6.mb-lg-0.mb-4
             .tarjeta-avatar
-              img(src='@/assets/curso/tema2/img15.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img15.svg' alt="")
               .tarjeta.BG03
                 .p-4
                   .h4.text-center Rol del responsable
                   p.mb-0 El propietario, tenedor o poseedor debe aplicar esta técnica observacional para garantizar que solo se movilicen animales que puedan soportar la duración y el estrés del viaje.
           .col-lg-6.mb-lg-0.mb-4
             .tarjeta-avatar
-              img(src='@/assets/curso/tema2/img16.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img16.svg' alt="")
               .tarjeta.BG03
                 .p-4
                   .h4.text-center Propósito
@@ -206,7 +206,7 @@
         .cajon.color-primario.p-4(data-aos="fade-right")
           .row.justify-content-center
             .col-lg-3.col-6.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img17.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img17.svg' alt="")
             .col-lg-9
               .h4 Soporte documental
               p.mb-0 "El propietario, tenedor o poseedor de los animales... deberá observar y seleccionar los animales, para detectar animales no aptos para el transporte". Manual de procedimiento (núm. 4.a).
@@ -231,21 +231,21 @@
               p #[strong Detalle de la técnica de observación]: se observa cualquier signo de enfermedad evidente (fiebre, diarrea, cojera severa), lesiones abiertas o presencia de prolapsos rectal, vaginal o uterino.
               p.mb-0 #[strong Soporte documental]: "Animales enfermos, lesionados o con prolapsos (rectal, vaginal o uterino)". Manual de procedimiento (núm. 4.ai).
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img18.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img18.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               p #[strong Criterio de exclusión]: capacidad de movilidad.
               p #[strong Detalle de la técnica de observación]: se evalúa la capacidad del animal para mantenerse en pie. Se excluye aquel que no pueda permanecer en la posición de estación de equilibrio estático animal sin ayuda, ya sea por caída, debilidad extrema o dificultad para desplazarse.
               p.mb-0 #[strong Soporte documental]: "animales que no puedan permanecer en la posición de estación de equilibrio estático animal sin ayuda". Manual de procedimiento (núm. 4.ai).
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img19.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img19.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               p #[strong Criterio de exclusión]: etapa reproductiva crítica.
               p #[strong Detalle de la técnica de observación]: se excluyen hembras próximas al parto, observables en el último tercio de gestación, o aquellas que hayan parido siete (7) días antes de la fecha del embarque.
               p.mb-0 #[strong Soporte documental]: "hembras próximas al parto (último tercio de gestación) o que hayan parido siete (7) días antes de la fecha del embarque". Manual de procedimiento (núm. 4.ai).
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img20.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img20.jpg' alt="")
     
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -266,14 +266,14 @@
             p #[strong Propósito]: reducir riesgos de lesiones y conflictos cuando los animales presentan características que los hacen vulnerables o potencialmente agresivos, como cuernos, menor tamaño o juventud.
             p.mb-0 #[strong Soporte documental]: obligación de separar por "edad, tamaño, machos sexualmente maduros de hembras, animales con y sin cuernos...". Manual de procedimiento (núm. 4.c.iii).
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img21.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img21.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Técnica de manejo: manejo tranquilo
             p #[strong Propósito]: disminuir el estrés antes del cargue mediante un manejo calmado durante el encierro y el desplazamiento hacia la rampa.
             p.mb-0 #[strong Soporte documental]: el cargue debe realizarse con "calma, sin ruidos ni hostigamiento". Manual de procedimiento (núm. 4).
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img22.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img22.jpg' alt="")
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -360,22 +360,22 @@
             p El manejo ambiental exige mantener la ventilación constante y asegurar que la temperatura dentro del vehículo se mantenga entre 5 °C y 30 °C.
             p #[strong Soporte documental (texto exacto)]: "Mantener la ventilación constante y asegurar la temperatura que no podrá ser inferior a 5 °C y superior a 30 °C". Manual de procedimiento (núm. 4.f).
             figure
-              img(src='@/assets/curso/tema2/img23.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img23.jpg' alt="")
           div(numero="2" titulo="Vigilancia activa de la salud")
             p Obligación de realizar la inspección de los animales en movimiento, por lo menos cada cuatro (4) horas, para detectar problemas de salud o caídas.
             p #[strong Soporte documental (texto exacto)]: "Por lo menos cada cuatro (4) horas durante el viaje". Manual de procedimiento (núm. 4.g).
             figure
-              img(src='@/assets/curso/tema2/img24.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img24.jpg' alt="")
           div(numero="3" titulo="Hidratación y comodidad")
             p En las interrupciones en el lugar de descanso, se exige realizar acomodación, hidratación o alimentación de los animales para mitigar el estrés y prevenir la deshidratación.
             p #[strong Soporte documental (texto exacto)]: "Realizar actividades de inspección, alojamiento, hidratación o alimentación". Manual de procedimiento (núm. 4.h).
             figure
-              img(src='@/assets/curso/tema2/img25.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img25.jpg' alt="")
           div(numero="4" titulo="Contingencia sanitaria")
             p El operador debe conocer y aplicar el plan de contingencia ante la detección de un animal enfermo o lesionado, que incluye la ayuda inmediata y la notificación al ICA más cercano.
             p #[strong Soporte documental (texto exacto)]: "Las medidas van desde la ayuda o atención inmediata al animal, informar a la oficina del Instituto Colombiano Agropecuario ICA más cercana". ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie, pág. 6.
             figure
-              img(src='@/assets/curso/tema2/img26.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img26.jpg' alt="")
 
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -383,7 +383,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img26.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema2/img26.svg' alt="")
       .col-lg-11.col-10(data-aos="fade-left")
         p.mb-0 Las #[strong técnicas de precargue] (o actividades previas al cargue) son el conjunto de procedimientos obligatorios que se realizan justo antes de que los animales ingresen al vehículo. Estas técnicas son esenciales para garantizar que la unidad de transporte sea segura y que solo se movilicen animales aptos, mitigando riesgos de bienestar animal y sanitarios.
 
@@ -394,7 +394,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/temas/img01.svg' alt="")
       .col-lg-11.col-10(data-aos="fade-left")
         p La técnica más crítica del precargue es la #[strong observación y selección de los animales], con el fin de excluir inmediatamente a aquellos que no pueden soportar el viaje sin sufrir injustificadamente.
         p.mb-0 A continuación, se presentan los criterios técnicos que deben verificarse durante este procedimiento:
@@ -409,7 +409,7 @@
               .h4 Soporte documental (texto exacto)
               p.mb-0 “Animales enfermos, lesionados o con prolapsos (rectal, vaginal o uterino).” — Manual de procedimiento (Núm. 4.ai).
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img27.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img27.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Exclusión por movilidad
@@ -417,7 +417,7 @@
               .h4 Soporte documental (texto exacto) 
               p.mb-0 “Animales que no puedan permanecer en la posición de estación de equilibrio estático animal sin ayuda.” — Manual de procedimiento (Núm. 4.ai).
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img28.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img28.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Exclusión por etapa fisiológica
@@ -425,7 +425,7 @@
               .h4 Soporte documental (texto exacto) 
               p.mb-0 “Hembras próximas al parto (último tercio de gestación) o que hayan parido siete (7) días antes de la fecha del embarque.” — Manual de procedimiento (Núm. 4.ai).
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img29.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img29.jpg' alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -442,17 +442,17 @@
             .h4 Chequeo sanitario
             p.mb-5 Verificación de que la unidad haya sido lavada y desinfectada, y que su diseño facilite estos procesos.
             .h4 Soporte documental (base de la obligación)
-            p.mb-0 “Las unidades de transporte… deberán estar elaboradas de materiales que faciliten la limpieza y desinfección.” — RESOLUCIÓN 20223040006915 (Núm. 2.2.ci).
+            p.mb-0 “Las unidades de transporte… deberán estar elaboradas de materiales que faciliten la limpieza y desinfección.” — Resolución 20223040006915 (Núm. 2.2.ci).
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img30.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img30.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Alistamiento de bioseguridad
             p.mb-5 Verificación de que el piso sea estanco y cuente con el sistema para evitar la filtración de orina y heces hacia la vía pública.
             .h4 Soporte documental (base de la obligación)
-            p.mb-0 “Contar con un sistema que evite la filtración de orina y heces hacia la vía pública.” — RESOLUCIÓN 20223040006915 (Núm. 2.2.c.ii).
+            p.mb-0 “Contar con un sistema que evite la filtración de orina y heces hacia la vía pública.” — Resolución 20223040006915 (Núm. 2.2.c.ii).
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img31.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img31.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Instalación de divisiones
@@ -460,7 +460,7 @@
             .h4 Soporte documental (base de la obligación)
             p.mb-0 “Contar con divisiones o barreras fuertes que permitan la separación de los animales.” — Manual de procedimiento (Núm. 2.2.c.iii).
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img32.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img32.jpg' alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -478,7 +478,7 @@
           p.mb-0 “…Con máximo 20 grados de inclinación que facilite el embarque y desembarque de los animales.” — Manual de procedimiento (Núm. 4.a).
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema2/img33.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img33.jpg', alt="")
       .row.justify-content-center(titulo="Verificación de seguridad")
         .col-lg-6.order-lg-1.order-2
           p La superficie debe ser antideslizante y no presentar salientes puntiagudas, hoyos u orificios que puedan causar tropiezos, miedo o lesiones.
@@ -486,7 +486,7 @@
           p.mb-0 “…Con pisos de superficies antideslizantes, que no presentan salientes puntiagudas, hoyos u orificios…” — Manual de procedimiento (Núm. 4.a).
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema2/img34.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img34.jpg', alt="")
       .row.justify-content-center(titulo="Ajuste de altura")
         .col-lg-6.order-lg-1.order-2
           p La rampa debe posicionarse al nivel del piso del vehículo para minimizar desniveles y movimientos bruscos durante el embarque.
@@ -494,7 +494,7 @@
           p.mb-0 Implícito en la exigencia del uso de rampas o plataformas seguras — Manual de procedimiento (Núm. 4.a).
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema2/img35.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img35.jpg', alt="")
 
     separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -502,7 +502,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img36.jpg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema2/img36.jpg' alt="")
       .col-lg-7(data-aos="fade-left")
         p Las técnicas de manejo de utensilios e implementos se refieren a los métodos de uso de herramientas y estructuras auxiliares para el manejo, confinamiento y movimiento de los animales durante las etapas de precargue, cargue y descargue, con el objetivo primordial de evitar el dolor, el sufrimiento injustificado (maltrato) y el estrés.
         .mb-4.d-flex(data-aos="fade-right")
@@ -527,7 +527,7 @@
             .h4 Soporte documental (texto exacto)
             p.mb-0 Implícito en la necesidad de evitar la fuerza y el hostigamiento (num. 4).
       .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema2/img37.jpg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema2/img37.jpg' alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -540,7 +540,7 @@
       .BG06.px-4.py-3.py-md-4(titulo="Divisiones o barreras")
         .row.justify-content-center
           .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img38.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img38.jpg' alt="")
           .col-lg-8
             p Deben ser instaladas antes del cargue. La técnica exige que sean fuertes y se utilicen para separar a los animales según los criterios de bienestar (especie, edad, tamaño y hostilidad).
             .h4 Soporte documental (texto exacto)
@@ -548,7 +548,7 @@
       .BG06.px-4.py-3.py-md-4(titulo="Rampas de cargue/descargue")
         .row.justify-content-center
           .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img39.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img39.jpg' alt="")
           .col-lg-8
             p Este implemento de infraestructura debe ser revisado y alistado antes de su uso. La técnica exige que su superficie sea antideslizante y que no tenga salientes puntiagudas, hoyos u orificios.
             .h4 Soporte documental (texto exacto)
@@ -556,7 +556,7 @@
       .BG06.px-4.py-3.py-md-4(titulo="Cajas (para aves)")
         .row.justify-content-center
           .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img40.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img40.jpg' alt="")
           .col-lg-8
             p El uso de estas unidades de contención (implementos externos) debe ser monitoreado. La técnica exige que sean plásticas o de cartón seguras y que, una vez cargadas, estén fijadas o dispuestas para evitar su desplazamiento o volcamiento.
             .h4 Soporte documental (texto exacto)
@@ -573,7 +573,7 @@
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema2/img41.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img41.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4 Utensilios de limpieza y desinfección
@@ -581,7 +581,7 @@
       .col-lg-6(data-aos="fade-left")
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema2/img42.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img42.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4 Sistema de recolección de excretas
@@ -592,7 +592,7 @@
         .cajon.color-secundario.p-4
           .row.justify-content-center
             .col-lg-3.col-6.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img43.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img43.svg' alt="")
             .col-lg-9
               .h4 Soporte documental
               p.mb-0 "...Contar con un sistema que evite la filtración de orina y heces hacia la vía pública." — Resolución 20223040006915 (num. 2.2.c.ii).
@@ -618,19 +618,19 @@
             .h4 Soporte documental (texto exacto)
             p.mb-0 "Los animales deberán ser cargados y descargados con calma, sin ruidos ni hostigamiento, ni empleo de fuerzas innecesarias..." Manual de procedimiento (Num. 4).
             figure
-              img(src='@/assets/curso/tema2/img44.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img44.jpg' alt="")
           div(numero="2" titulo="Manejo sin hostigamiento")
             p El implemento nunca debe usarse para golpear o gritar, ya que el manejo debe realizarse con calma, sin ruidos ni hostigamiento, aprovechando la zona de fuga del animal.
             .h4 Soporte documental (texto exacto)
             p.mb-0 "Con calma, sin ruidos ni hostigamiento..." Manual de procedimiento (Num. 4).
             figure
-              img(src='@/assets/curso/tema2/img45.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img45.jpg' alt="")
           div(numero="3" titulo="Uso de elementos de reducción de visibilidad")
             p La técnica de manejo etológico implica el uso de elementos visuales, como banderas o paletas ciegas, para guiar al animal evitando el contacto físico directo y la coacción.
             .h4 Soporte documental (texto exacto)
             p.mb-0 Implícito en la prohibición de fuerza y hostigamiento (Num. 4).
             figure
-              img(src='@/assets/curso/tema2/img46.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img46.jpg' alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -648,7 +648,7 @@
             .h4 Soporte documental (texto exacto)
             p.mb-0 "Contar con divisiones o barreras fuertes que permitan la separación de los animales." Manual de procedimiento (Num. 2.2.c.iii).
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img47.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img47.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Rampas de cargue y descargue
@@ -656,7 +656,7 @@
             .h4 Soporte documental (texto exacto)
             p.mb-0 "Con pisos de superficies antideslizantes, que no presentan salientes puntiagudas, hoyos u orificios..." Manual de procedimiento (Num. 4.a).
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img48.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img48.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Cajas para aves
@@ -664,7 +664,7 @@
             .h4 Soporte documental (texto exacto)
             p.mb-0 "Estar fijadas o dispuestas de manera tal, que se evite su desplazamiento y/o volcamiento." Resolución 20223040006915 (Num. 2.2.cv).
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img49.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img49.jpg' alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -680,14 +680,14 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema2/img50.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema2/img50.svg', alt="")
             h4.text-center Utensilios de limpieza y desinfección
             p.mb-0 El vehículo debe estar elaborado con materiales que faciliten la limpieza y desinfección, lo que implica el uso riguroso de escobas, chorros de agua a presión y desinfectantes antes de la carga.
           .col-md.tarjeta.color-secundario.p-5(data-aos="fade-left")
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema2/img51.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema2/img51.svg', alt="")
             h4.text-center Sistema de recolección de excretas
             p.mb-0 El vehículo debe contar con un sistema o diseño que evite la filtración de orina y heces hacia la vía pública, controlando riesgos sanitarios y ambientales.
 
@@ -696,7 +696,7 @@
         .cajon.color-secundario.p-4 
           .row.justify-content-center
             .col-lg-3.col-6.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img52.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img52.svg' alt="")
             .col-lg-9
               .h4 Soporte documental
               p.mb-0 "Contar con un sistema que evite la filtración de orina y heces hacia la vía pública." Resolución 20223040006915 (Num. 2.2.c.ii).
@@ -720,10 +720,10 @@
               h4 Superficie antideslizante
               p.mb-0 La técnica constructiva exige que la superficie sea antideslizante para evitar que los animales resbalen y caigan, lo cual es vital para el control del miedo.
             .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-              img(src='@/assets/curso/tema2/img53.png', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img53.png', alt="")
           .row.justify-content-center
             .col-lg-5.col-8.mb-lg-0.mb-4(data-aos="fade-left")
-              img(src='@/assets/curso/tema2/img54.png', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img54.png', alt="")
             .col-lg-7(data-aos="fade-right")
               h4 Sin obstáculos
               p.mb-0 El diseño debe ser liso, sin salientes puntiagudas, hoyos u orificios que puedan causar tropiezos, golpes o pánico.
@@ -731,7 +731,7 @@
         .cajon.color-primario.p-4.mb-4(data-aos="fade-left")
           .row.justify-content-center
             .col-lg-3.col-6.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img55.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img55.svg' alt="")
             .col-lg-9
               .h4 Soporte documental
               p La carga se realizará a través de rampas o plataformas “…con pisos de superficies antideslizante, que no presenten salientes puntiagudas, hoyos u orificios…”.
@@ -744,7 +744,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img56.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema2/img56.svg' alt="")
       .col-lg-11.col-10(data-aos="fade-left")
         p La colocación se refiere al ángulo de inclinación de la rampa respecto al nivel horizontal y su ajuste con el vehículo.
         p.mb-0 A continuación, se presenta el recurso que organiza los aspectos técnicos obligatorios para la correcta colocación de rampas y plataformas durante el cargue y descargue de animales.
@@ -781,7 +781,7 @@
         .crd.crd--grayGrad
           .bottomCircle.mb-5
             figure
-              img(src="@/assets/curso/tema2/img57.svg", alt="Imagen decorativa").img90.m-auto
+              img(src="@/assets/curso/tema2/img57.svg", alt="").img90.m-auto
           .row.justify-content-center.mb-4
             .BG07.px-4.py-2
               h4.text-center.mb-0 Manejo calmo
@@ -790,7 +790,7 @@
         .crd.crd--grayGrad
           .bottomCircle.mb-5
             figure
-              img(src="@/assets/curso/tema2/img58.svg", alt="Imagen decorativa").img90.m-auto
+              img(src="@/assets/curso/tema2/img58.svg", alt="").img90.m-auto
           .row.justify-content-center.mb-4
             .BG07.px-4.py-2
               h4.text-center.mb-0 Control de sombras
@@ -799,7 +799,7 @@
         .crd.crd--grayGrad
           .bottomCircle.mb-5
             figure
-              img(src="@/assets/curso/tema2/img59.svg", alt="Imagen decorativa").img90.m-auto
+              img(src="@/assets/curso/tema2/img59.svg", alt="").img90.m-auto
           .row.justify-content-center.mb-4
             .BG07.px-4.py-2
               h4.text-center.mb-0 Exclusión de fuerza
@@ -835,7 +835,7 @@
             .h4 Soporte documental (texto exacto)
             p.mb-0 "Hembras próximas al parto (último tercio de gestación) o que hayan parido siete (7) días antes del embarque." — Manual de procedimiento (núm. 4.ai).
       .col-lg-4.order-lg-1.order-2(data-aos="fade-left")
-        img(src='@/assets/curso/tema2/img75.jpg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema2/img75.jpg' alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -844,7 +844,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img60.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema2/img60.png' alt="")
       .col-lg-8(data-aos="fade-left")
         p La densidad es una característica crítica de la carga y debe ser controlada para garantizar que los animales dispongan del espacio vital necesario dentro del vehículo, evitando condiciones de hacinamiento.
         ul.lista-ul--color
@@ -869,7 +869,7 @@
         .cajon.color-primario.p-4
           p.mb-0 #[strong Soporte documental]: " separar por especie, edad, tamaño, machos sexualmente maduros de hembras, animales con y sin cuernos, animales que puedan ser hostiles con otros..." — Manual de procedimiento (num. 4.c.iii).
       .col-lg-2.col-4.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema2/img61.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema2/img61.png' alt="")
 
     .row.justify-content-center.mb-4
       .col-lg-10
@@ -935,7 +935,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/temas/img01.svg' alt="")
       .col-lg-11.col-10(data-aos="fade-left")
         p El animal debe estar adaptado a la convivencia forzada y al manejo humano para que el transporte sea exitoso. La falta de adaptación social se mitiga mediante la técnica de separación.
         p.mb-0 A continuación, se presentan las técnicas de manejo asociadas a la adaptación comportamental:
@@ -979,14 +979,14 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema2/img62.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema2/img62.svg', alt="")
             h4.text-center Adaptación térmica
             p.mb-0 La técnica estructural y operacional del vehículo debe garantizar ventilación constante para ayudar a la carga a adaptarse a la temperatura de la ruta, manteniéndola entre 5 °C y 30 °C.
           .col-md.tarjeta.color-secundario.p-5(data-aos="fade-left")
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema2/img63.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema2/img63.svg', alt="")
             h4.text-center Adaptación a la densidad
             p.mb-0 La técnica de densidad controlada asegura que el animal disponga de espacio suficiente para levantarse, acostarse y dar vuelta, lo que le permite adaptarse posturalmente durante viajes prolongados.
       .col-lg-10
@@ -1005,7 +1005,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img64.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema2/img64.svg' alt="")
       .col-lg-11.col-10(data-aos="fade-left")
         p La técnica más importante relacionada con la superficie es garantizar que el animal pueda mantenerse en pie de forma segura durante el movimiento del vehículo, ya que la incapacidad de mantenerse en equilibrio es un criterio de exclusión.
         p.mb-0 A continuación, se presenta un recurso que describe las características técnicas exigidas para la superficie de transporte y su propósito en el bienestar animal:
@@ -1084,7 +1084,7 @@
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema2/img65.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img65.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4 Propósito del material de cama
@@ -1092,7 +1092,7 @@
       .col-lg-6(data-aos="fade-left")
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema2/img66.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img66.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4 Técnica de manejo
@@ -1104,7 +1104,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img67.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema2/img67.svg' alt="")
       .col-lg-11.col-10(data-aos="fade-left")
         p.mb-0 La responsabilidad de revisión de la carga animal recae sobre dos actores principales en diferentes etapas del proceso de movilización: el propietario/remitente (en la selección inicial o precargue) y el conductor/tripulante (en la vigilancia durante la ruta). Ambos tienen la obligación legal de asegurar el bienestar, la salud y la aptitud de los animales.
 
@@ -1126,7 +1126,7 @@
               .h4 Soporte documental clave
               p.mb-0 "El propietario, tenedor o poseedor de los animales... deberá observar y seleccionar los animales, para detectar animales no aptos para el transporte". — Manual de procedimiento (núm. 4.a)
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img68.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img68.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Punto de control crítico
@@ -1134,7 +1134,7 @@
               .h4 Soporte documental clave
               p.mb-0 Manual de procedimiento (núm. 4.ai)
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img69.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img69.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Verificación fisiológica
@@ -1142,7 +1142,7 @@
               .h4 Soporte documental clave
               p.mb-0 Manual de procedimiento (núm. 4.ai)
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema2/img70.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema2/img70.jpg' alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -1161,7 +1161,7 @@
             .h4 Soporte documental clave
             p.mb-0 "El conductor o tripulante deberá realizar la inspección ... por lo menos cada cuatro (4) horas durante el viaje." — Manual de procedimiento (núm. 4.g)
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img71.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img71.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Propósito de la inspección
@@ -1169,7 +1169,7 @@
             .h4 Soporte documental clave
             p.mb-0 Manual de procedimiento (núm. 4.g)
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img72.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img72.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Obligación en interrupciones
@@ -1177,7 +1177,7 @@
             .h4 Soporte documental clave
             p.mb-0 "Realizar actividades de inspección, acomodación, hidratación o alimentación." — Manual de procedimiento (núm. 4.h)
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img73.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img73.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Obligación en contingencia
@@ -1185,7 +1185,7 @@
             .h4 Soporte documental clave
             p.mb-0 "Las medidas van desde la ayuda o atención inmediata al animal, informar a la oficina del Instituto Colombiano Agropecuario ICA más cercana..." — ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (1).pdf, pág. 6
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema2/img74.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema2/img74.jpg' alt="")
 
 
 </template>

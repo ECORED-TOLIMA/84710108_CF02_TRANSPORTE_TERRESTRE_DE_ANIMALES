@@ -8,13 +8,13 @@
       h1 Técnicas de transporte de animales en pie: espacios disponibles máximos
     
     figure.mb-5(data-aos="fade-right")
-      img(src='@/assets/curso/tema3/img01.png', alt="Imagen decorativa")
+      img(src='@/assets/curso/tema3/img01.png', alt="")
     
     p.mb-5 Las Técnicas de Transporte de Animales en Pie respecto a los espacios disponibles máximos (lo que en la práctica se traduce en el control de la densidad de carga mínima requerida) tienen como objetivo principal garantizar que cada animal tenga el espacio vital funcional necesario para su bienestar y seguridad durante el trayecto, previniendo el hacinamiento y las lesiones.
     
     .row.justify-content-center.mb-5
       .col-lg-2.col-4.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img02.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img02.svg' alt="")
       .col-lg-10(data-aos="fade-left")
         .mb-4.d-flex
           .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -30,7 +30,7 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema3/img03.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img03.svg', alt="")
             h4.text-center Control de densidad
             p El transportador debe calcular y aplicar la densidad de carga que procura que la carga cuente con espacio disponible.
             .h4 Soporte documental (texto exacto)
@@ -39,7 +39,7 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema3/img04.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img04.svg', alt="")
             h4.text-center Requisito funcional
             p Este espacio debe ser suficiente para que el animal pueda levantarse, acostarse, dar vuelta y mantener su equilibrio sin comprometerse con otros.
             .h4 Soporte documental (texto exacto)
@@ -50,7 +50,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img05.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img05.png' alt="")
       .col-lg-8(data-aos="fade-left")
         .mb-4.d-flex
           .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -60,14 +60,14 @@
         .row.justify-content-center
           .col-lg-6.mb-lg-0.mb-4
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/img06.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img06.svg' alt="")
               .tarjeta.BG03
                 .p-4
                   .h4.text-center Implemento requerido
                   p.mb-0 Se deben usar divisiones o barreras fuertes dentro del vehículo para segregar grupos.
           .col-lg-6.mb-lg-0.mb-4
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/img07.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img07.svg' alt="")
               .tarjeta.BG03
                 .p-4
                   .h4.text-center Finalidad del espacio dividido
@@ -93,10 +93,10 @@
               h4 Aves (pollitos de un día)
               p.mb-0 Los contenedores (cajas plásticas o de cartón) actúan como el espacio disponible del animal.
             .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-              img(src='@/assets/curso/tema3/img08.png', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img08.png', alt="")
           .row.justify-content-center
             .col-lg-5.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-              img(src='@/assets/curso/tema3/img09.png', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img09.png', alt="")
             .col-lg-7(data-aos="fade-left")
               .h4 Fijación como técnica de espacio
               p.mb-0 El riesgo no es el hacinamiento interno (si la caja es adecuada), sino el volcamiento o desplazamiento de la caja, lo cual reduce el espacio funcional del animal a cero. Por ello, la técnica exige que las cajas estén fijadas o dispuestas para evitar dicho movimiento.
@@ -208,7 +208,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img10.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img10.svg' alt="")
       .col-lg-11.col-10(data-aos="fade-left")
         p El suministro de agua y alimento es una técnica de manejo de bienestar animal que debe ser considerada obligatoriamente en la planificación del viaje, especialmente en trayectos largos que requieren interrupciones. 
         p.mb-0 La normativa establece que estas actividades deben ser ejecutadas por el conductor o tripulante en los lugares de descanso designados.
@@ -230,7 +230,7 @@
             .h4 Soporte documental (texto exacto)
             p.mb-0 “En los casos de interrupciones, estas se deben realizar en un lugar de descanso de los animales...” — manual de procedimiento (num. 4.h)
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img11.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img11.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Propósito de la parada
@@ -238,7 +238,7 @@
             .h4 Soporte documental (texto exacto)
             p.mb-0 “...Para realizar actividades de inspección, acomodación, hidratación o alimentación.” — manual de procedimiento (num. 4.h)
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img12.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img12.jpg' alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -260,7 +260,7 @@
                   i.fas.fa-check-circle
                   p.mb-0 #[strong Técnica operativa]: el personal debe asegurarse de que el agua sea de calidad y esté disponible en cantidad suficiente para todos los animales, especialmente después de períodos de alto estrés o calor.
             figure
-              img(src='@/assets/curso/tema3/img13.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img13.jpg' alt="")
           div(numero="B" titulo="Suministro de alimento (alimentación)")
             .tarjeta--blanca.p-4
               ul.lista-ul--color.mb-0
@@ -277,7 +277,7 @@
                   i.fas.fa-check-circle
                   p.mb-0 #[strong Implementos estructurales]: si la alimentación o hidratación se realiza en el vehículo (en el caso de aves), los implementos (bebederos, comederos) deben ser accesibles y seguros. En el caso de pollitos de un día de edad, la técnica exige que las cajas contengan alimento y agua suficientes para el trayecto.
             figure
-              img(src='@/assets/curso/tema3/img14.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img14.jpg' alt="")
       .cajon.color-secundario.p-4
         p.mb-0 #[strong Soporte documental]: la obligación es realizar la hidratación o alimentación en la interrupción, lo cual exige que el operador planifique el viaje llevando consigo o asegurando el acceso a estos suministros en los puntos de descanso.
 
@@ -305,7 +305,7 @@
               .h4 Soporte documental (texto exacto)
               p.mb-0 "En los casos de interrupciones, estas se deben realizar en un lugar de descanso de los animales ..." — manual de procedimiento (Num. 4.h).
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema3/img15.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img15.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Finalidad de la parada
@@ -313,7 +313,7 @@
               .h4 Soporte documental (texto exacto)
               p.mb-0 "...para realizar actividades de inspección, acomodación, hidratación o alimentación." — manual de procedimiento (Num. 4.h).
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema3/img16.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img16.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Tiempos de interrupción
@@ -321,7 +321,7 @@
               .h4 Soporte documental (texto exacto)
               p.mb-0 Implícito en la obligación de realizar pausas para estas actividades (Num. 4.h).
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema3/img17.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img17.jpg' alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -337,13 +337,13 @@
           p.mb-0 #[strong Técnica de acceso en vehículo]: si el desembarque no es posible, se debe utilizar un método para hacer accesible el agua y el alimento dentro del vehículo, asegurando que los utensilios de suministro no representen un riesgo de lesión.
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema3/img18.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img18.jpg', alt="")
       .row.justify-content-center(titulo="Suministro en especies contenidas (aves)")
         .col-lg-6.order-lg-1.order-2
           p.mb-0 #[strong Técnica de contención suficiente]: para especies frágiles como los pollitos de un día de edad, la técnica de manejo es asegurar que las cajas utilizadas contengan agua y alimento suficiente para la duración del trayecto. El suministro se realiza antes del cargue, dentro de la propia unidad de contención.
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema3/img19.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img19.jpg', alt="")
 
     .row.justify-content-center.mb-4  
       .col-lg-10(data-aos="fade-right")
@@ -356,7 +356,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img20.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img20.png' alt="")
       .col-lg-9(data-aos="fade-left")
         p.mb-5 Las técnicas de conducción son un conjunto de procedimientos operacionales que debe aplicar el conductor para minimizar el estrés, el miedo y las lesiones de los animales en movimiento. La conducción es un factor crítico, ya que los movimientos bruscos (aceleración y frenado) son una de las principales causas de caídas y traumatismos en la carga viva.
         .mb-4.d-flex
@@ -420,7 +420,7 @@
       .col-lg-6.mb-4(data-aos="fade-right")
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema3/img21.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img21.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4 Parada segura
@@ -428,7 +428,7 @@
       .col-lg-6.mb-4(data-aos="fade-left")
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema3/img22.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img22.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4 Notificación y monitoreo
@@ -454,7 +454,7 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema3/img23.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img23.svg', alt="")
             h4.text-center Responsable
             p El conductor o tripulante es el responsable de ejecutar la inspección y el monitoreo constante.
             .h4 Soporte documental (texto exacto)
@@ -463,7 +463,7 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema3/img24.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img24.svg', alt="")
             h4.text-center Periodicidad
             p La inspección debe realizarse, por lo menos, cada cuatro (4) horas durante el viaje (inspección en movimiento).
             .h4 Soporte documental (texto exacto)
@@ -492,7 +492,7 @@
               p.mb-0 #[strong Comportamiento del grupo]: vigilar si hay peleas o hostigamiento entre animales, lo que indica fallas en las divisiones o en la separación.
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema3/img25.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img25.jpg', alt="")
       .row.justify-content-center(titulo="Inspección de la unidad de transporte (estructural y ambiental)")
         .col-lg-6.order-lg-1.order-2
           p El personal debe comprobar la infraestructura y el microclima del vehículo.
@@ -508,7 +508,7 @@
               p.mb-0 #[strong Bioseguridad]: inspeccionar que el sistema de contención de excretas continúe evitando la filtración de orina y heces hacia la vía pública.
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema3/img26.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img26.jpg', alt="")
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -543,7 +543,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img27.jpg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img27.jpg' alt="")
       .col-lg-7(data-aos="fade-left")
         p Las técnicas de supervisión de animales en trayecto constituyen el conjunto de acciones continuas de vigilancia activa que deben ser ejecutadas por el conductor o tripulante. El objetivo es garantizar el bienestar de la carga viva, el cumplimiento de la normativa y la detección temprana de cualquier situación de emergencia o riesgo durante el movimiento.
         .mb-4.d-flex
@@ -562,7 +562,7 @@
             .h4 Soporte documental (texto exacto)
             p.mb-0 "El conductor o tripulante deberá realizar la inspección... por lo menos cada cuatro (4) horas durante el viaje." — Manual de procedimiento (Num. 4.g)
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img28.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img28.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Alcance de la supervisión
@@ -570,7 +570,7 @@
             .h4 Soporte documental (texto exacto)
             p.mb-0 "...inspección de la unidad de transporte de animales y de los animales en movimiento..." — Manual de procedimiento (Num. 4.g)
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img29.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img29.jpg' alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -583,7 +583,7 @@
       .BG06.px-4.py-3.py-md-4(titulo="Supervisión de la condición del animal")
         .row.justify-content-center
           .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img30.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img30.jpg' alt="")
           .col-lg-8
             ul.lista-ul--color.mb-0
               li(style="margin-bottom: 2px")
@@ -598,7 +598,7 @@
       .BG06.px-4.py-3.py-md-4(titulo="Supervisión del microclima y estructura")
         .row.justify-content-center
           .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img31.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img31.jpg' alt="")
           .col-lg-8
             ul.lista-ul--color.mb-0
               li(style="margin-bottom: 2px")
@@ -623,7 +623,7 @@
         .crd.crd--grayGrad
           .bottomCircle.mb-5
             figure
-              img(src="@/assets/curso/tema3/img32.svg", alt="Imagen decorativa").img90.m-auto
+              img(src="@/assets/curso/tema3/img32.svg", alt="").img90.m-auto
           .row.justify-content-center.mb-4
             .BG07.px-4.py-2
               h4.text-center.mb-0 Acomodación
@@ -632,7 +632,7 @@
         .crd.crd--grayGrad
           .bottomCircle.mb-5
             figure
-              img(src="@/assets/curso/tema3/img33.svg", alt="Imagen decorativa").img90.m-auto
+              img(src="@/assets/curso/tema3/img33.svg", alt="").img90.m-auto
           .row.justify-content-center.mb-4
             .BG07.px-4.py-2
               h4.text-center.mb-0 Suministro
@@ -641,7 +641,7 @@
         .crd.crd--grayGrad
           .bottomCircle.mb-5
             figure
-              img(src="@/assets/curso/tema3/img34.svg", alt="Imagen decorativa").img90.m-auto
+              img(src="@/assets/curso/tema3/img34.svg", alt="").img90.m-auto
           .row.justify-content-center.mb-4
             .BG07.px-4.py-2
               h4.text-center.mb-0 Contingencia
@@ -676,7 +676,7 @@
               .h4 Soporte documental (texto exacto)
               p.mb-0 "asegurar la temperatura que no podrá ser inferior a 5°C ni superior a 30°C" — Manual de procedimiento (Num. 4.f)
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema3/img35.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img35.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Ventilación constante
@@ -684,21 +684,21 @@
               .h4 Soporte documental (texto exacto)
               p.mb-0 "procurar... mantener la ventilación constante..." — Manual de procedimiento (Num. 4.f)
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema3/img36.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img36.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Protección estructural (sombra)
               p El vehículo debe contar con techo o cubierta que proteja a los animales de las condiciones climáticas adversas, principalmente la radiación solar directa.
               p.mb-0 "...deberán contar con techo o cubierta que proteja a los animales de las condiciones climáticas adversas." — Resolución 20223040006915 (Num. 2.2.c.i)
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema3/img37.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img37.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Control de densidad
               p Evitar la sobrecarga o hacinamiento, ya que la proximidad de cuerpos animales aumenta la producción de calor y humedad, sobrecargando la capacidad del sistema de ventilación.
               p.mb-0 Implícito en la necesidad de espacio disponible para levantarse y acostarse (Num. 4.e)
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema3/img38.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img38.jpg' alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -768,7 +768,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img39.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img39.svg' alt="")
       .col-lg-9(data-aos="fade-left")
         .mb-4.d-flex
           .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -833,10 +833,10 @@
                   i.fas.fa-check-circle
                   p.mb-0 #[strong Soporte normativo]: "asegurar la temperatura que no podrá ser inferior a (debe estar entre 5°C y 30°C)." — Manual de procedimiento (num. 4.f) 
             .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-              img(src='@/assets/curso/tema3/img40.png', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img40.png', alt="")
           .row.justify-content-center
             .col-lg-5.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-              img(src='@/assets/curso/tema3/img41.png', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img41.png', alt="")
             .col-lg-7(data-aos="fade-left")
               h4 Aspersión como contingencia
               p La aspersión es una forma de proporcionar ayuda o atención inmediata al animal en riesgo por calor, como parte de la ejecución del plan de contingencia.
@@ -849,7 +849,7 @@
               h4 Técnica de ventilación
               p.mb-0 La aspersión debe ir siempre acompañada de una ventilación constante para que el agua se evapore y el proceso de enfriamiento sea efectivo, de lo contrario, solo aumenta la humedad y el riesgo. 
             .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-              img(src='@/assets/curso/tema3/img42.png', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img42.png', alt="")
 
     separador
     #t_3_9.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -857,7 +857,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img43.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img43.svg' alt="")
       .col-lg-11.col-10(data-aos="fade-left")
         p.mb-09 El manejo de animales en estado crítico (caídos, enfermos, lesionados, atrapados y muertos) se considera una situación de contingencia o emergencia durante el proceso de transporte. La normativa establece que el conductor y el transportador deben aplicar inmediatamente el plan de contingencia con el objetivo de mitigar el sufrimiento, el dolor y la mortalidad.
 
@@ -915,7 +915,7 @@
               p.mb-0 #[strong Acomodación]: si el animal está caído pero puede levantarse con ayuda, se debe asistirlo y asegurar que el espacio sea suficiente (acomodación).
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema3/img44.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img44.jpg', alt="")
       .row.justify-content-center(titulo="Notificación y coordinación (prioridad: legal y sanitaria)")
         .col-lg-6.order-lg-1.order-2
           p El operador tiene la obligación de notificar a la autoridad competente.
@@ -931,7 +931,7 @@
               p.mb-0 #[strong Coordinación local]: si es un accidente grave, se debe contactar a las autoridades locales (municipal o distrital) para coordinar esfuerzos en pro del bienestar de los animales.
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema3/img45.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img45.jpg', alt="")
 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-right")
@@ -940,7 +940,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img46.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img46.png' alt="")
       .col-lg-8(data-aos="fade-left")
         .mb-4.d-flex
           .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -950,14 +950,14 @@
         .row.justify-content-center
           .col-lg-6.mb-lg-0.mb-4
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/img47.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img47.svg' alt="")
               .tarjeta.BG03
                 .p-4
                   .h4.text-center Sacrificio humanitario
                   p.mb-0 Si es necesario, debe ser realizado por personal competente y capacitado para minimizar el dolor.
           .col-lg-6.mb-lg-0.mb-4
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/img48.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema3/img48.svg' alt="")
               .tarjeta.BG03
                 .p-4
                   .h4.text-center Disposición sanitaria
@@ -990,7 +990,7 @@
             .h4 Soporte documental (base de la obligación)
             p.mb-0 Inspección cada 4 horas. — Manual de procedimiento (Num. 4.g)
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img49.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img49.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Novedades a reportar
@@ -998,7 +998,7 @@
             .h4 Soporte documental (base de la obligación)
             p.mb-0 Animales enfermos, muertos o accidentes. — ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (1).pdf, pág. 6
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img50.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img50.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Acción inmediata pre-reporte
@@ -1006,7 +1006,7 @@
             .h4 Soporte documental (base de la obligación)
             p.mb-0 Ayuda o atención inmediata al animal. — ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (1).pdf, pág. 6
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema3/img51.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img51.jpg' alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -1018,21 +1018,21 @@
     .row.justify-content-center.mb-5
       .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema3/img52.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img52.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4.text-center Entidad receptora del reporte
               p.mb-0 La notificación se debe realizar a la Oficina del Instituto Colombiano Agropecuario (ICA) más cercana al punto donde se detectó la novedad o donde ocurrió el evento.
       .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="flip-up")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema3/img53.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img53.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4.text-center Contenido del reporte
               p.mb-0 El reporte debe incluir la naturaleza de la novedad (ej. número de animales caídos, animal con fractura), la ubicación exacta y la identificación del vehículo y la carga.
       .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema3/img54.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema3/img54.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4.text-center Coordinación adicional
@@ -1057,14 +1057,14 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema3/img55.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img55.svg', alt="")
             h4.text-center Disposición de cadáveres
             p.mb-0 Si el reporte involucra un animal muerto, la técnica de manejo sanitario exige ejecutar el protocolo de disposición sanitaria del cadáver de acuerdo con las instrucciones del ICA para evitar la contaminación. 
           .col-md.tarjeta.color-secundario.p-5(data-aos="fade-left")
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema3/img56.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema3/img56.svg', alt="")
             h4.text-center Registro de la novedad
             p.mb-0 Aunque no se detalla el formato, el plan de viaje debe incluir el registro de la novedad, la hora de ocurrencia y la hora de reporte al ICA, como constancia del cumplimiento del plan de contingencia.
 

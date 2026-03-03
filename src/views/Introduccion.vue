@@ -11,13 +11,13 @@
     
     .row.justify-content-center.mb-5
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/intro/img01.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/intro/img01.png' alt="")
       .col-lg-9(data-aos="fade-left")
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 La movilización de animales en pie es un proceso logístico crítico que influye directamente en el #[strong bienestar animal], la #[strong inocuidad] y la #[strong calidad final del producto pecuario]. Cada etapa —desde la selección de los animales en el predio de origen hasta su llegada al destino— incluye puntos sensibles donde una mala práctica puede generar #[strong estrés, lesiones, pérdidas económicas] y afectaciones al rendimiento productivo.
         .row.justify-content-center
           .col-lg-1.col-2.mb-lg-0.mb-4
-            img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/temas/img01.svg' alt="")
           .col-lg-11
             p.mb-0 El manejo inadecuado, la planificación deficiente o las condiciones inapropiadas del vehículo pueden desencadenar respuestas fisiológicas como la liberación de cortisol, lo que se refleja en #[strong mermas de peso, contusiones] y #[strong cortes oscuros]. Por ello, la normativa vigente, como la #[strong Resolución 20223040006915], exige aplicar procedimientos estandarizados que garanticen un transporte humanitario y seguro.
 

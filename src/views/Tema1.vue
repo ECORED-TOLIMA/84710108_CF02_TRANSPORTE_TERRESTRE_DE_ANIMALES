@@ -8,7 +8,7 @@
       h1 Técnica de planificación, plan y orden de viaje.
     
     figure.mb-5(data-aos="fade-right")
-      img(src='@/assets/curso/tema1/img01.png' alt="Imagen decorativa")
+      img(src='@/assets/curso/tema1/img01.png' alt="")
 
     p.mb-5 La #[strong técnica de planificación, plan y orden de viaje] es un procedimiento operativo que deben implementar el transportador y el conductor para asegurar que la movilización de animales en pie se realice dentro de los límites establecidos de tiempo de conducción, incluyendo las pausas obligatorias para inspección y descanso. Su propósito es #[strong garantizar el bienestar animal y la seguridad vial], evitando situaciones de estrés, agotamiento, lesiones o riesgos durante el desplazamiento.
 
@@ -17,7 +17,7 @@
         .BG01.p-4
           .row.justify-content-center.align-items-center
             .col-lg-2.col-4.px-4.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img02.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img02.svg' alt="")
             .col-lg-10
               p.mb-0 La #[strong planificación del viaje] es un paso esencial dentro del proceso de transporte pecuario, ya que permite anticipar las condiciones del trayecto, evaluar la aptitud de los animales para la movilización y prever las necesidades logísticas. Esta técnica se centra en el #[strongg control estricto del tiempo de conducción], el #[strong cumplimiento de las pausas de descanso], y la ejecución de inspecciones programadas para verificar el estado de los animales, del vehículo y de la carga.
     
@@ -48,11 +48,11 @@
     .BG02.mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-5.col-10.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema1/img03.png' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img03.png' alt="")
         .col-lg-7.p-4
           .row.mb-4
             .col-lg-2.col-3
-              img(src='@/assets/curso/tema1/img04.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img04.svg' alt="")
           p Una planificación adecuada permite reducir el estrés, evitar sobrecargas, disminuir el riesgo de lesiones y asegurar que el transporte se desarrolle bajo estándares técnicos y humanitarios.
           p.mb-0 Para garantizar una movilización segura y humanitaria, la planificación del viaje debe contemplar aspectos operativos que regulen los #[strong tiempos de conducción, los periodos de descanso y las pausas de inspección en ruta]. Estos elementos permiten prevenir el agotamiento del conductor, reducir el riesgo de incidentes y asegurar condiciones adecuadas para los animales durante el traslado. A continuación, se sintetizan los aspectos clave de la planificación, las técnicas de ejecución que deben aplicarse y el soporte documental correspondiente según el Manual de Procedimiento.
     
@@ -69,7 +69,7 @@
             p #[strong Técnica de ejecución y orden de viaje]: en casos de viajes de larga duración, el plan de viaje debe identificar un lugar de descanso de los animales donde se puedan realizar actividades de inspección, alojamiento, hidratación o alimentación.
             p.mb-0 #[strong Soporte documental (texto exacto)]: manual de procedimiento (Num. 4.h): "En los casos de interrupciones, estas se deben realizar en un lugar de descanso de los animales para realizar actividades de inspección, acomodación, hidratación o alimentación ".
       .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img05.jpg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img05.jpg' alt="")
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -77,7 +77,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img06.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img06.svg' alt="")
       .col-lg-9(data-aos="fade-left")
         .mb-4.d-flex(data-aos="fade-right")
           .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -97,7 +97,7 @@
       .col-lg-4.col-sm-6.col-10.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/tema1/img07.jpg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img07.jpg' alt="")
           .tarjetas-up__card.tarjeta.BG05.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
@@ -108,7 +108,7 @@
       .col-lg-4.col-sm-6.col-10.mb-4(data-aos="flip-up")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/tema1/img08.jpg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img08.jpg' alt="")
           .tarjetas-up__card.tarjeta.BG05.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
@@ -119,7 +119,7 @@
       .col-lg-4.col-sm-6.col-10.mb-4(data-aos="fade-left")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/tema1/img09.jpg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img09.jpg' alt="")
           .tarjetas-up__card.tarjeta.BG05.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
@@ -133,7 +133,7 @@
         .cajon.color-primario.p-4
           .row.justify-content-center
             .col-lg-3.col-6.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img10.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img10.svg' alt="")
             .col-lg-9
               p #[strong Soporte documental]: la resolución aplica al transporte de animales de las especies “bovina, porcina, caprina, ovina, aviar, bufalina, équida y las demás especies de consumo humano”.
               p.mb-0 — #[strong Resolución 20223040006915 (Art. 2)]
@@ -155,28 +155,28 @@
               p #[strong Características físicas clave]: gran tamaño, peso, necesidad de espacio para mantener el equilibrio y riesgo de hostilidad (cuernos).
               p.mb-0 #[strong Requisito de contención / diseño del vehículo]: divisiones o Barreras Fuertes para separación de grupos y Piso Antideslizante para prevenir caídas.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img11.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img11.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Porcinos / ovinos / caprinos
-              p #[strong Características físicas clave]: sensibilidad al estrés térmico (porcinos), necesidad de densidad controlada (kg/m2) y riesgo de hacinamiento por densidad.
+              p #[strong Características físicas clave]: sensibilidad al estrés térmico (porcinos), necesidad de densidad controlada (kg/m²) y riesgo de hacinamiento por densidad.
               p.mb-0 #[strong Requisito de contención / diseño del vehículo]: ventilación constante para mantener la temperatura entre 5 °C y 30 °C.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img12.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img12.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Aves (pollitos de un día)
               p #[strong Características físicas clave]: fragilidad, muy pequeño tamaño, inmadurez fisiológica.
               p.mb-0 #[strong Requisito de contención / diseño del vehículo]: cajas plásticas o de cartón seguras que deben ir fijadas o dispuestas de manera tal, que se eviten su desplazamiento y/o volcamiento.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img13.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img13.jpg' alt="")
 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-right")
         .cajon.color-secundario.p-4
           .row.justify-content-center
             .col-lg-3.col-6.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img14.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img14.svg' alt="")
             .col-lg-9
               p #[strong Soporte documental]: "en el caso de pollitos de un día de edad, deben transportarse en cajas plásticas o de cartón seguras y en estado adecuado."
               p.mb-0 - #[strong Resolución 20223040006915 (numeral 2.2.c.ii)].
@@ -188,7 +188,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img15.jpg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img15.jpg' alt="")
       .col-lg-7(data-aos="fade-left")
         p El manejo etológico exige separar adecuadamente a los animales dentro del vehículo para prevenir conflictos sociales y reducir el riesgo de lesiones.
         p La separación obligatoria debe aplicarse rigurosamente a:
@@ -223,7 +223,7 @@
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema1/img16.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img16.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4 Especies mayores
@@ -231,7 +231,7 @@
       .col-lg-6(data-aos="fade-left")
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema1/img17.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img17.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4 Todas las especies
@@ -251,39 +251,39 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema1/img18.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img18.svg', alt="")
             h4.text-center Especies frágiles (aves y porcinos)
             p.mb-0 Se deben evitar frenadas bruscas que puedan provocar aplastamiento o volcamiento de las cajas de contención, o generar pánico y golpes colectivos.
           .col-md.tarjeta.color-secundario.p-5(data-aos="fade-left")
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema1/img19.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img19.svg', alt="")
             h4.text-center Control de temperatura
             p.mb-0 En especies susceptibles al estrés térmico, como porcinos y aves, la conducción debe garantizar ventilación constante y evitar detenciones prolongadas bajo la radiación solar directa, conforme al numeral 4.f.
 
         .row.justify-content-center.mb-5
           .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
-            img(src='@/assets/curso/tema1/img20.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img20.svg' alt="")
           .col-lg-10(data-aos="fade-left")
             p.mb-0 A continuación, se presentan de manera organizada los principales aspectos, características y referencias normativas relacionadas con el transporte de especies de consumo humano, de manera que se puedan identificar de forma clara los criterios técnicos y el soporte documental que los respalda.
 
         LineaTiempoD.color-acento-botones.especial
           div(numero="1" titulo="Tipos de especies")
             p El manual aplica al transporte de las siguientes especies de producción: bovina, porcina, caprina, ovina, aviar, bufalina, équida y las demás especies de consumo humano.
-            p RESOLUCIÓN 20223040006915 (Art. 2): "aplica a las personas naturales y jurídicas... de animales de las especies bovina, porcina, caprina, ovina, aviar, bufalina, équida y las demás especies de consumo humano ".
+            p Resolución 20223040006915 (Art. 2): "aplica a las personas naturales y jurídicas... de animales de las especies bovina, porcina, caprina, ovina, aviar, bufalina, équida y las demás especies de consumo humano ".
             figure
-              img(src='@/assets/curso/tema1/img21.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img21.jpg' alt="")
           div(numero="2" titulo="Características físicas (aves)")
             p La característica de fragilidad y tamaño de las aves recién nacidas requiere el uso de contenedores específicos.
             p Manual de procedimiento (Num. 2.2.c.ii): "en el caso de pollitos de un día de edad, deben transportarse en cajas plásticas o de cartón seguras y en estado adecuado".
             figure
-              img(src='@/assets/curso/tema1/img22.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img22.jpg' alt="")
           div(numero="3" titulo="Técnicas de manejo")
             p Las técnicas de manejo deben ser específicas para la especie y su comportamiento, exigiendo la separación por condiciones físicas (cuernos, tamaño) y reproductivas para evitar lesiones y hostilidad.
             p Manual de procedimiento (Num. 4.c.iii): exige separar por especie, edad, tamaño, y animales con y sin cuernos, reconociendo sus diferentes necesidades de manejo.
             figure
-              img(src='@/assets/curso/tema1/img23.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img23.jpg' alt="")
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -291,7 +291,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img24.jpg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img24.jpg' alt="")
       .col-lg-7(data-aos="fade-left")
         .cajon.color-secundario.p-4.mb-4  
           p.mb-0 La separación de los animales dentro de la unidad de transporte constituye una técnica de manejo obligatoria y esencial para garantizar el bienestar animal. Su finalidad es prevenir el sufrimiento, las lesiones, el maltrato y los comportamientos de agresividad o pelea entre los animales, situaciones que pueden afectar su salud y comprometer la calidad de la carga.
@@ -306,10 +306,10 @@
               p La técnica exige separar a los animales de diferentes especies (ej. bovinos de porcinos) para evitar el miedo, la agresión interespecífica y la transmisión de patógenos.
               p.mb-0 “Separar por especie…”. Manual de Procedimiento (núm. 4.c.iii).
             .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-              img(src='@/assets/curso/tema1/img25.png', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img25.png', alt="")
           .row.justify-content-center
             .col-lg-5.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-              img(src='@/assets/curso/tema1/img26.png', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img26.png', alt="")
             .col-lg-7(data-aos="fade-left")
               h4 Separación por grupos etáreos y tamaño
               p Se deben separar los animales por edad y tamaño para asegurar que los ejemplares más pequeños o jóvenes no sean aplastados o golpeados por animales más grandes o con mayor fuerza.
@@ -320,13 +320,13 @@
               p Se deben separar los machos sexualmente maduros de las hembras (y viceversa) para evitar el acoso sexual, el estrés y el riesgo de lesiones y caídas asociadas al comportamiento reproductivo.
               p.mb-0 “Separar a los machos sexualmente maduros de las hembras…”. Manual de Procedimiento (núm. 4.c.iii).
             .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-              img(src='@/assets/curso/tema1/img27.png', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img27.png', alt="")
           .row.justify-content-center
             .col-lg-5.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-              img(src='@/assets/curso/tema1/img28.png', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img28.png', alt="")
             .col-lg-7(data-aos="fade-left")
               h4 Separación por condición física y hostilidad
-              p Es obligatorio separar a los animales con y sin cuernos ya aquellos animales que puedan ser hostiles con otros. También se deben separar los que requieran atención especial o que estén lesionados.
+              p Es obligatorio separar a los animales con y sin cuernos, ya aquellos animales que puedan ser hostiles con otros. También se deben separar los que requieran atención especial o que estén lesionados.
               p.mb-0 “Separar a los animales con y sin cuernos, así como a aquellos que puedan ser hostiles con otros, requieran atención especial o se encuentren lesionados…”. Manual de Procedimiento (núm. 4.c.iii).
 
     .row.justify-content-center.mb-5
@@ -343,7 +343,7 @@
 
     .row.justify-content-center.mb-4
       .col-lg-2.col-4.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img29.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img29.svg' alt="")
       .col-lg-10(data-aos="fade-left")
         ol.lista-ol--cuadro.lista-ol--separador
           li(data-aos="fade-left") 
@@ -393,7 +393,7 @@
         .cajon.color-secundario.p-4
           .row.justify-content-center
             .col-lg-3.col-6.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img30.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img30.svg' alt="")
             .col-lg-9
               .h4 Soporte documental
               p.mb-0 La exclusión es obligatoria para “hembras próximas al parto (último tercio de gestación) o que hayan parido siete (7) días antes de la fecha del embarque” (Manual de procedimiento, Núm. 4.ai).
@@ -413,21 +413,21 @@
           p.mb-0 #[strong Soporte documental]: criterio principal de exclusión para animales con problemas de movilidad (Manual de procedimiento, Núm. 4.ai).
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema1/img31.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img31.jpg', alt="")
       .row.justify-content-center(titulo="Respuesta al hostigamiento")
         .col-lg-6.order-lg-1.order-2
           p #[strong Aplicación en la técnica de manejo]: el miedo y la angustia se activan por el uso de fuerza, ruido o presión excesiva. El cargue y descargue deben realizarse con calma, sin gritos ni estímulos estresantes.
           p.mb-0 #[strong Soporte documental]: exigencia de cargue y descargue con calma, sin ruidos ni hostigamiento (Manual de procedimiento, Núm. 4).
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema1/img32.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img32.jpg', alt="")
       .row.justify-content-center(titulo="Agresividad y hostilidad")
         .col-lg-6.order-lg-1.order-2
           p #[strong Aplicación en la técnica de manejo]: la agresividad, especialmente en machos sexualmente maduros o animales con cuernos, se controla mediante la separación por grupos para evitar conflictos y daños físicos.
           p.mb-0 #[strong Soporte documental]: exigencia de separar machos sexualmente maduros de hembras y animales con y sin cuernos (Manual de procedimiento, Núm. 4.c.iii).
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema1/img33.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img33.jpg', alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -449,19 +449,19 @@
             th(style="background-color: #F3BC5B; width: 38%;") Técnica de cuidado asociada
         tbody
           tr(data-aos="fade-right")
-            th(style="background-color: #F6F6F6;") Oído (sensibilidad auditiva)
+            th(style="background-color: #F6F6F6;") Oído (sensibilidad auditiva).
             td(style="background-color: #F6F6F6;") Los ruidos fuertes como gritos, bocinas, motores o golpes generan pánico, incrementan el nivel de cortisol y provocan fatiga.
             td(style="background-color: #F6F6F6;") Manejo silencioso, conducción suave y evitación de ruidos bruscos.
           tr(data-aos="fade-right")
-            th Vista (percepción de la luz)
+            th Vista (percepción de la luz).
             td La visión panorámica y la sensibilidad a contrastes de luz y sombra pueden generar miedo o detenciones durante el desplazamiento.
             td Evitar sombras marcadas en rampas y pasillos, utilizar iluminación uniforme.
           tr(data-aos="fade-right")
-            th(style="background-color: #F6F6F6;") Tacto (movilidad)
+            th(style="background-color: #F6F6F6;") Tacto (movilidad).
             td(style="background-color: #F6F6F6;") La percepción del suelo es determinante. Superficies resbaladizas generan inseguridad, resistencia al movimiento y riesgo de caídas.
             td(style="background-color: #F6F6F6;") Uso de pisos antideslizantes y rampas con inclinación suave (máximo 20 grados).
           tr(data-aos="fade-right")
-            th Condiciones físicas generales
+            th Condiciones físicas generales.
             td Lesiones, enfermedades o dolor afectan la fisiología, el estado mental y el bienestar general del animal.
             td Exclusión obligatoria de animales enfermos o lesionados (ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie, pág. 2).
 
@@ -472,17 +472,17 @@
     .BG02.mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-5.col-10.mb-lg-0.mb-4
-          img(src='@/assets/curso/tema1/img34.png' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img34.png' alt="")
         .col-lg-7.p-4
           .row.mb-4
             .col-lg-2.col-3
-              img(src='@/assets/curso/tema1/img35.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img35.svg' alt="")
           p.mb-0 La elección de la unidad de transporte es una técnica de planificación y manejo que se realiza antes del proceso de carga. El vehículo debe seleccionarse en función de la especie, el tamaño, la cantidad de animales y sus necesidades específicas de bienestar animal, tales como el espacio disponible, la ventilación y los sistemas de contención, con el fin de mitigar el riesgo de lesiones, sufrimiento y estrés durante el transporte.
 
     .row.justify-content-center.mb-5
       .col-lg-1.col-2.px-0(data-aos="fade-right")
         .BG07.p-2.h-100
-          img(src='@/assets/curso/tema1/img36.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img36.svg' alt="")
       .col-lg-9.col-10.px-0(data-aos="fade-left")
         .BG04.p-4.h-100
           p.mb-0 A continuación, se presenta un recurso que describe los criterios técnicos que deben considerarse en la elección del vehículo según la especie animal y las exigencias normativas asociadas.
@@ -496,21 +496,21 @@
               p El vehículo debe ser seleccionado según su área útil, garantizando espacio suficiente para que el animal pueda levantarse, acostarse y girar, de acuerdo con la densidad de carga establecida para cada especie.
               p.mb-0 #[strong Soporte documental]: manual de Procedimiento (Numeral 4.e). “Procurar que se cuente con espacio disponible para que el animal pueda levantarse, acostarse y dar vuelta”.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img37.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img37.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Protección climática
               p Para todas las especies, el vehículo debe contar con techo o cubierta que proteja a los animales de las condiciones climáticas adversas.
               p.mb-0 #[strong Soporte documental]: manual de Procedimiento (Numeral 2.2.c.i). “Deberán contar con techo o cubierta que proteja a los animales de las condiciones climáticas adversas”.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img38.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img38.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Contención específica
               p En especies pequeñas, como pollitos de un día, el vehículo debe ser adecuado para asegurar las cajas plásticas o de cartón utilizadas como unidades de contención, evitando su desplazamiento o volcamiento durante el transporte.
               p.mb-0 #[strong Soporte documental]: manual de Procedimiento (Numeral 2.2.c.v). “Las cajas deben estar fijadas o dispuestas de manera tal que se evite su desplazamiento y/o volcamiento”.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img39.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img39.jpg' alt="")
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.order-lg-1.order-2(data-aos="fade-right")
@@ -525,13 +525,13 @@
             h3.col.ps-3.mb-0 Especies que requieren contención fuerte y separación
         p.mb-0 Por ejemplo: bovinos y équidos. El vehículo debe ser seleccionado por su capacidad estructural para albergar animales de gran tamaño y resistir su peso y movimiento. En estos casos se requiere:
       .col-lg-2.col-4.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img40.png' alt="Imagen decorativa")  
+        img(src='@/assets/curso/tema1/img40.png' alt="")  
 
     .row.justify-content-center.mb-5
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema1/img41.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img41.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4 Divisiones internas
@@ -539,7 +539,7 @@
       .col-lg-6(data-aos="fade-left")
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema1/img42.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img42.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4 Contención general
@@ -558,14 +558,14 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema1/img43.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img43.svg', alt="")
             h4.text-center Ventilación
             p.mb-0 El vehículo debe contar con dispositivos que garanticen ventilación constante y mantengan una temperatura entre 5 °C y 30 °C.
           .col-md.tarjeta.color-secundario.p-5(data-aos="fade-left")
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema1/img44.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img44.svg', alt="")
             h4.text-center Altura (Porcinos)
             p.mb-0 En el caso de porcinos, los compartimentos con ventilación natural deben contar con una altura libre mínima de 90 cm para permitir un flujo de aire adecuado.
 
@@ -580,7 +580,7 @@
       .col-lg-10(data-aos="fade-right")
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img(style="min-width: 10%")
-            img(src='@/assets/curso/tema1/img45.svg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img45.svg' alt="")
           .tarjeta.BG03
             .p-4
               .h4 Capacidad de fijación
@@ -591,7 +591,7 @@
         .cajon.color-secundario.p-4
           .row.justify-content-center
             .col-lg-3.col-6.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img46.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img46.svg' alt="")
             .col-lg-9
               .h4 Soporte documental
               p.mb-0 Resolución 20223040006915 (Numeral 2.2.c.v). “Las cajas deben estar fijadas o dispuestas de manera tal que se evite su desplazamiento y/o volcamiento”.
@@ -638,7 +638,7 @@
       .BG06.px-4.py-3.py-md-4(titulo="Conductor o transportador")
         .row.justify-content-center
           .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img47.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img47.jpg' alt="")
           .col-lg-8
             p #[strong Característica / rol principal]: responsable de la operación del vehículo. Debe asegurar la seguridad vial y el manejo humanitario.
             p #[strong Tipo de obligaciones clave]: conducción suave, descanso mínimo de ocho (8) horas tras ocho (8) horas continuas de conducción y aplicación del plan de contingencia en caso de emergencia.
@@ -646,7 +646,7 @@
       .BG06.px-4.py-3.py-md-4(titulo="Tripulante")
         .row.justify-content-center
           .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img48.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img48.jpg' alt="")
           .col-lg-8
             p #[strong Característica / rol principal]: personal de apoyo en el manejo y cuidado de la carga durante el transporte.
             p #[strong Tipo de obligaciones clave]: realizar la inspección de la unidad de transporte y de los animales en movimiento por lo menos cada cuatro (4) horas durante el viaje.
@@ -665,10 +665,10 @@
         .col-lg-6.order-lg-1.order-2
           p #[strong Característica / rol principal]: autoridad sanitaria encargada de la inspección y control oficial.
           p #[strong Tipo de obligaciones clave]: realizar inspección, vigilancia y control del cumplimiento de las condiciones de bienestar animal y los protocolos sanitarios.
-          p.mb-0 #[strong Soporte documental (texto exacto)]: "Están en la obligación de permitir la inspección, vigilancia y control por parte de los funcionarios del instituto colombiano agropecuario (ica)." resolución 20223040006915 (art. 4, parágrafo)
+          p.mb-0 #[strong Soporte documental (texto exacto)]: "Están en la obligación de permitir la inspección, vigilancia y control por parte de los funcionarios del instituto colombiano agropecuario (ica)." Resolución 20223040006915 (art. 4, parágrafo)
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema1/img49.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img49.jpg', alt="")
       .row.justify-content-center(titulo="Autoridades de tránsito")
         .col-lg-6.order-lg-1.order-2
           p #[strong Característica / rol principal]: autoridad encargada de la seguridad vial.
@@ -676,7 +676,7 @@
           p.mb-0 #[strong Soporte documental (texto exacto)]: "El cual podrá ser exigido por las autoridades de tránsito y/o por el instituto colombiano agropecuario (ica)." Manual de procedimiento (núm. 6)
         .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
           figure
-            img(src='@/assets/curso/tema1/img50.jpg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img50.jpg', alt="")
 
     separador
     #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -684,7 +684,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img51.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img51.png' alt="")
       .col-lg-9(data-aos="fade-left")
         .mb-4.d-flex
           .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -711,7 +711,7 @@
             h3.col.ps-3.mb-0 Obligaciones de cuidado y manejo (cargue y descargue)
         p.mb-0 La técnica de manejo exige un comportamiento específico por parte del operador con el fin de reducir el estrés y evitar el maltrato animal. El cargue y descargue deben realizarse con calma, sin ruidos ni hostigamiento, y sin el uso de fuerza innecesaria. El operador tiene la obligación de utilizar las divisiones o barreras del vehículo para separar a los animales según especie, edad, tamaño y nivel de hostilidad.
       .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img52.jpg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img52.jpg' alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -720,7 +720,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img53.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img53.svg' alt="")
       .col-lg-11.col-10(data-aos="fade-left")
         p.mb-0 El operario debe planificar y ejecutar las pausas obligatorias que garanticen el bienestar animal y humano durante el trayecto. Se establece la obligación de inspeccionar la unidad de transporte y los animales en movimiento, por lo menos cada cuatro (4) horas durante el viaje. Asimismo, el operador debe descansar al menos ocho (8) horas una vez haya conducido ocho (8) horas continuas.
 
@@ -756,7 +756,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-2.col-4.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img54.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img54.svg' alt="")
       .col-lg-10(data-aos="fade-left")
         p La normativa específica del transporte de animales en pie se enfoca principalmente en el bienestar animal, la bioseguridad y la seguridad vial. Por esta razón, no detalla de forma explícita los elementos de protección personal ni las técnicas de higiene postural, las cuales se rigen por la legislación general de seguridad y salud en el trabajo en Colombia.
         .cajon.color-secundario.p-4
@@ -768,8 +768,8 @@
           h5 Figura 1.
           i Beneficios de la normativa SST para el bienestar animal y la seguridad laboral en el transporte
         figure(data-aos="zoom-in")
-          img.d-lg-flex.d-none(src='@/assets/curso/tema1/img55.svg' alt="Imagen decorativa")
-          img.d-lg-none.d-flex(src='@/assets/curso/tema1/img56.svg' alt="Imagen decorativa")
+          img.d-lg-flex.d-none(src='@/assets/curso/tema1/img55.svg' alt="Diagrama sobre los beneficios de la normativa de Seguridad y Salud en el Trabajo en el transporte de animales, que relaciona bienestar animal, seguridad laboral, capacitación de los trabajadores y protección profesional, destacando la reducción del estrés animal y la prevención de riesgos durante el proceso de transporte.")
+          img.d-lg-none.d-flex(src='@/assets/curso/tema1/img56.svg' alt="Diagrama sobre los beneficios de la normativa de Seguridad y Salud en el Trabajo en el transporte de animales, que relaciona bienestar animal, seguridad laboral, capacitación de los trabajadores y protección profesional, destacando la reducción del estrés animal y la prevención de riesgos durante el proceso de transporte.")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -831,21 +831,21 @@
             p #[strong Soporte documental (contexto del manual)]: el manual no detalla tipos de EPP (casco, botas de seguridad, guantes, etc.). La obligación implícita recae en la necesidad de usar rampas seguras con pisos antideslizantes y la capacitación, que debería incluir la seguridad laboral.
             p.mb-0 #[strong Nota]: el manual no detalla tipos de EPP específicos.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img57.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img57.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Técnicas de higiene postural
             p #[strong Soporte documental (contexto del manual)]: no se mencionan técnicas de higiene postural. La obligación es genérica a través del Curso de Bienestar Animal, que debe incluir las acciones a tomar en caso de accidentes que involucren a los animales o al personal.
             p.mb-0 #[strong Nota]: no se describen técnicas posturales específicas.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img58.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img58.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-6.order-lg-1.order-2
             .h4 Seguridad del operario
             p #[strong Soporte documental (contexto del manual)]: se requiere una rampa segura con máximo 20 grados de inclinación, lo que indirectamente reduce el riesgo de lesiones y esfuerzo para el operario durante el manejo de la carga.
             p.mb-0 #[strong Nota]: reduce el riesgo de lesiones durante el manejo.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img59.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img59.jpg' alt="")
 
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -895,7 +895,7 @@
           div(numero="1" titulo="Frecuencia")
             p Pausas de cinco a diez minutos cada dos horas de conducción continua.
             figure
-              img(src='@/assets/curso/tema1/img60.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img60.jpg' alt="")
           div(numero="2" titulo="Ejecución")
             ul.lista-ul--color
               li(style="margin-bottom: 2px")
@@ -917,7 +917,7 @@
                 i.fas.fa-check-circle
                 | Aprovechar la pausa para hidratarse con agua.
             figure
-              img(src='@/assets/curso/tema1/img61.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img61.jpg' alt="")
 
     separador
     #t_1_8.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -971,7 +971,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img62.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img62.svg' alt="")
       .col-lg-11.col-10(data-aos="fade-left")
         p.mb-0 El control de los tiempos máximos de recorrido es una obligación normativa orientada a prevenir la fatiga del conductor y a proteger el bienestar animal durante el transporte. A continuación, se presenta un recurso que sintetiza los límites de conducción, los tiempos de inspección y los contenidos mínimos que deben ser verificados durante las paradas.
     
@@ -984,28 +984,28 @@
               p #[strong Detalle de la técnica o tiempos máximos]: ocho (8) horas continuas corresponde al límite máximo de conducción permitido para el conductor o tripulante.
               p.mb-0 #[strong Soporte documental (texto exacto)]: Manual de procedimiento (Num. 4.i).
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img63.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img63.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Tiempos mínimos de inspección
               p #[strong Detalle de la técnica o tiempos máximos]: la inspección de la unidad y de los animales debe realizarse, como mínimo, cada cuatro (4) horas durante el viaje.
               p.mb-0 #[strong Soporte documental (texto exacto)]: Manual de procedimiento (Num. 4.g).
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img64.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img64.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Contenido del chequeo estructural
               p #[strong Detalle de la técnica o tiempos máximos]: verificación de que el vehículo cuente con techo o cubierta y que la rampa cumpla con una inclinación máxima de 20°.
               p.mb-0 #[strong Soporte documental (texto exacto)]: Manual de procedimiento (Num. 2.2.c.i y 4.a).
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img65.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img65.jpg' alt="")
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               .h4 Contenido del chequeo sanitario
               p #[strong Detalle de la técnica o tiempos máximos]: verificación de que el vehículo cuente con un sistema que evite la filtración de orina y heces hacia la vía pública.
               p.mb-0 #[strong Soporte documental (texto exacto)]: Manual de procedimiento (Num. 2.2.c.ii).
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img66.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img66.jpg' alt="")
 
     separador
     #t_1_9.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -1025,26 +1025,26 @@
           div(numero="1" titulo="Formato oficial de control")
             p Guía sanitaria de movilización (GSMI). Este es el formato de control sanitario indispensable para toda movilización legal de animales en pie. (Documento exigido por el ICA, implícito en el control oficial).
             figure
-              img(src='@/assets/curso/tema1/img67.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img67.jpg' alt="")
           div(numero="2" titulo="Registro de tiempos")
             p La técnica de diligenciamiento debe incluir el registro de las horas de conducción y de descanso del conductor o tripulante, demostrando el cumplimiento de las ocho (8) horas de descanso tras ocho (8) horas de manejo.
             p #[strong Soporte documental]: manual de procedimiento (Num. 4.i): “el conductor o tripulante deberá descansar al menos ocho (8) horas …”.
             figure
-              img(src='@/assets/curso/tema1/img68.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img68.jpg' alt="")
           div(numero="3" titulo="Registro de novedades")
             p El plan de viaje debe registrar las interrupciones y las actividades realizadas en el lugar de descanso, tales como inspección, alojamiento, hidratación o alimentación.
             p #[strong Soporte documental]: manual de procedimiento (Num. 4.h): menciona las interrupciones para realizar actividades.
             figure
-              img(src='@/assets/curso/tema1/img69.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img69.jpg' alt="")
           div(numero="4" titulo="Registro de inspecciones")
             p La técnica exige el registro de las inspecciones realizadas cada cuatro (4) horas, detallando el estado de la unidad de transporte y de los animales en movimiento.
             p #[strong Soporte documental]: manual de procedimiento (Num. 4.g): “…inspección de la unidad de transporte… por lo menos cada cuatro (4) horas …”.
             figure
-              img(src='@/assets/curso/tema1/img70.jpg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img70.jpg' alt="")
 
     .row.justify-content-center.mb-4
       .col-lg-3.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img71.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img71.svg' alt="")
       .col-lg-9(data-aos="fade-left") 
         .mb-4.d-flex
           .d-flex.flex-wrap.align-items-center.BG04.pe-4(style="border-radius: 5px;")
@@ -1070,20 +1070,20 @@
     
     .row.justify-content-center.mb-5
       .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img72.jpg' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img72.jpg' alt="")
       .col-lg-8(data-aos="fade-left")
         p La técnica principal para proveer sombra se basa en las características estructurales de la unidad de transporte, las cuales son de cumplimiento obligatorio según la normativa vigente.
         .row.justify-content-center
           .col-lg-6.mb-lg-0.mb-4
             .tarjeta-avatar
-              img(src='@/assets/curso/tema1/img73.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img73.svg' alt="")
               .tarjeta.BG03
                 .p-4
                   .h4.text-center Techo o cubierta
                   p.mb-0 El vehículo seleccionado debe contar con techo o cubierta que proteja a los animales de las condiciones climáticas adversas, lo que incluye la exposición directa al sol como principal fuente de estrés térmico.
           .col-lg-6.mb-lg-0.mb-4
             .tarjeta-avatar
-              img(src='@/assets/curso/tema1/img74.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img74.svg' alt="")
               .tarjeta.BG03
                 .p-4
                   .h4.text-center Soporte documental
@@ -1103,14 +1103,14 @@
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema1/img75.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img75.svg', alt="")
             h4.text-center Uso de lugares de descanso
             p.mb-0 En el orden de viaje, las interrupciones prolongadas deben realizarse en lugares de descanso de los animales que ofrezcan protección adecuada frente a las condiciones climáticas.
           .col-md.tarjeta.color-secundario.p-5(data-aos="fade-left")
             .row.justify-content-center.mb-4
               .col-6
                 figure
-                  img(src='@/assets/curso/tema1/img76.svg', alt="Imagen decorativa")
+                  img(src='@/assets/curso/tema1/img76.svg', alt="")
             h4.text-center Propósito
             p.mb-0 Durante estas pausas, la técnica de cuidado exige realizar actividades de inspección, acomodación, hidratación o alimentación, siendo la provisión de sombra un componente implícito de la acomodación para mitigar el riesgo de golpe de calor.
 
@@ -1119,7 +1119,7 @@
         .cajon.color-secundario.p-4
           .row.justify-content-center
             .col-lg-3.col-6.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img77.svg' alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/img77.svg' alt="")
             .col-lg-9
               .h4 Soporte documental
               p.mb-0 "En los casos de interrupciones, estas se deben realizar en un lugar de descanso de los animales para realizar actividades de inspección, acomodación, hidratación o alimentación." Manual de procedimiento (núm. 4.h).
@@ -1182,7 +1182,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-1.col-2.mb-lg-0.mb-4
-        img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
+        img(src='@/assets/curso/temas/img01.svg' alt="")
       .col-lg-11.col-10
         p La existencia, conocimiento y aplicación del plan de contingencia es un requisito obligatorio para todos los actores involucrados en la cadena de transporte de animales en pie.
         p.mb-0 En relación con esta obligación, la normativa establece los siguientes lineamientos:
@@ -1195,21 +1195,21 @@
             p El plan debe ser conocido y aplicado por el propietario, poseedor, tenedor, conductor, transportador y/o tripulante.
             p.mb-0 #[strong Soporte documental]: ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (1).pdf, pág. 6: “El propietario, poseedor, tenedor, conductor, transportador y/o tripulante deberá tener en cuenta las instrucciones contenidas en el manual, para atender la situación de emergencia que se presenta…”.
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img78.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img78.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-8.order-lg-1.order-2
             .h4 Eventos por cubrir
             p El plan debe estar diseñado para responder ante animales enfermos, muertos o accidentes que conlleven animales atrapados, caídas, traumatismos o fracturas, durante el proceso de cargue, transporte y descarga.
             p.mb-0 #[strong Soporte documental]: ABC Manual de Procedimientos para el Transporte, Manejo y Movilización de Animales en Pie (1).pdf, pág. 6: “Ante animales enfermos, muertos o accidentes que conlleven animales atrapados, caídas, traumatismos o fracturas de estos, durante el proceso de cargue, transporte y descarga de los animales…”.
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img79.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img79.jpg' alt="")
         .row.justify-content-center.align-items-center
           .col-lg-8.order-lg-1.order-2
             .h4 Vinculación a la capacitación
             p Las acciones por tomar en situaciones de contingencia deben estar incluidas dentro del plan de estudios del curso de capacitación en bienestar animal, según la especie transportada.
             p.mb-0 #[strong Soporte documental]: Manual de procedimiento transporte terrestre (2).pdf, núm. 5: “Las acciones a tomar por parte del conductor o tripulante frente a las situaciones anteriores deberán estar incluidas dentro del plan de estudios del curso de capacitación según la especie”.
           .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img80.jpg' alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/img80.jpg' alt="")
 
 
 </template>
